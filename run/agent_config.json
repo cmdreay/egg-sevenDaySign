@@ -144,11 +144,11 @@
       "app": true,
       "agent": false,
       "client": {
-        "url": "mongodb://172.168.20.222:27016/test?authSource=admin",
+        "url": "mongodb://172.168.20.222:27016/egg-test?authSource=admin",
         "options": {
           "user": "root",
           "pass": "<String len: 4>",
-          "useMongoClient": true
+          "useNewUrlParser": true
         }
       }
     },

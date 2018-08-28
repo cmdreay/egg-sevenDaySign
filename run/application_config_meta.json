@@ -16,6 +16,9 @@
     "app": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-mongoose/config/config.default.js",
     "agent": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-mongoose/config/config.default.js"
   },
+  "jwt": {
+    "secret": "/home/caomiao/workspace/EGG/egg-sample/config/config.default.js"
+  },
   "session": {
     "maxAge": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-session/config/config.default.js",
     "key": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-session/config/config.default.js",
@@ -162,6 +165,7 @@
     "private": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
     "dependencies": {
       "egg": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "egg-jwt": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
       "egg-mongoose": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
       "egg-scripts": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js"
     },

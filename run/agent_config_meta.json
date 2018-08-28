@@ -7,7 +7,7 @@
       "options": {
         "user": "/home/caomiao/workspace/EGG/egg-sample/config/config.default.js",
         "pass": "/home/caomiao/workspace/EGG/egg-sample/config/config.default.js",
-        "useMongoClient": "/home/caomiao/workspace/EGG/egg-sample/config/config.default.js"
+        "useNewUrlParser": "/home/caomiao/workspace/EGG/egg-sample/config/config.default.js"
       }
     },
     "url": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-mongoose/config/config.default.js",

@@ -196,6 +196,7 @@
       "private": true,
       "dependencies": {
         "egg": "^2.2.1",
+        "egg-jwt": "^3.1.2",
         "egg-mongoose": "^3.1.0",
         "egg-scripts": "^2.5.0"
       },
@@ -337,6 +338,9 @@
     "middleware": [
       "errorHandler"
     ],
+    "jwt": {
+      "secret": "<String len: 13>"
+    },
     "coreMiddlewares": "~config~coreMiddleware",
     "appMiddlewares": "~config~middleware",
     "appMiddleware": "~config~middleware",

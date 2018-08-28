@@ -20,3 +20,5 @@
 2018-08-28 14:55:32,856 INFO 15309 [Timer] /home/caomiao/workspace/EGG/egg-sample/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-08-29 00:00:01.000
 2018-08-28 15:39:37,774 INFO 17326 [Timer] /home/caomiao/workspace/EGG/egg-sample/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-08-29 00:00:00.000
 2018-08-28 15:39:37,775 INFO 17326 [Timer] /home/caomiao/workspace/EGG/egg-sample/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-08-29 00:00:01.000
+2018-08-28 17:32:17,345 INFO 21196 [Timer] /home/caomiao/workspace/EGG/egg-sample/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-08-29 00:00:00.000
+2018-08-28 17:32:17,347 INFO 21196 [Timer] /home/caomiao/workspace/EGG/egg-sample/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-08-29 00:00:01.000

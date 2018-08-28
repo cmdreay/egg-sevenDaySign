@@ -25,5 +25,8 @@ module.exports = appInfo => {
       options: mongooseOptions,
     },
   };
+  config.jwt = {
+    secret: 'mector-secret'
+  };
   return config;
 };
