@@ -1,274 +1,290 @@
 {
-  "keys": "/home/caomiao/workspace/EGG/egg-example/config/config.default.js",
-  "middleware": "/home/caomiao/workspace/EGG/egg-example/config/config.default.js",
+  "keys": "/home/caomiao/workspace/EGG/egg-sample/config/config.default.js",
+  "middleware": "/home/caomiao/workspace/EGG/egg-sample/config/config.default.js",
+  "mongoose": {
+    "client": {
+      "url": "/home/caomiao/workspace/EGG/egg-sample/config/config.default.js",
+      "options": {
+        "user": "/home/caomiao/workspace/EGG/egg-sample/config/config.default.js",
+        "pass": "/home/caomiao/workspace/EGG/egg-sample/config/config.default.js",
+        "useMongoClient": "/home/caomiao/workspace/EGG/egg-sample/config/config.default.js"
+      }
+    },
+    "url": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-mongoose/config/config.default.js",
+    "options": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-mongoose/config/config.default.js",
+    "loadModel": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-mongoose/config/config.default.js",
+    "app": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-mongoose/config/config.default.js",
+    "agent": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-mongoose/config/config.default.js"
+  },
   "session": {
-    "maxAge": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-session/config/config.default.js",
-    "key": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-session/config/config.default.js",
-    "httpOnly": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-session/config/config.default.js",
-    "encrypt": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-session/config/config.default.js"
+    "maxAge": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-session/config/config.default.js",
+    "key": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-session/config/config.default.js"
   },
   "security": {
-    "domainWhiteList": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-security/config/config.default.js",
-    "protocolWhiteList": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-security/config/config.default.js",
-    "defaultMiddleware": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-security/config/config.default.js",
+    "domainWhiteList": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security/config/config.default.js",
     "csrf": {
-      "enable": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-security/config/config.default.js",
-      "useSession": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-security/config/config.default.js",
-      "ignoreJSON": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-security/config/config.default.js",
-      "cookieName": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-security/config/config.default.js",
-      "sessionName": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-security/config/config.default.js",
-      "headerName": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-security/config/config.default.js",
-      "bodyName": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-security/config/config.default.js",
-      "queryName": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-security/config/config.default.js"
+      "enable": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security/config/config.default.js",
+      "useSession": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security/config/config.default.js",
+      "headerName": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security/config/config.default.js",
+      "queryName": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security/config/config.default.js"
     },
     "xframe": {
-      "enable": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-security/config/config.default.js",
-      "value": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-security/config/config.default.js"
+      "enable": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security/config/config.default.js",
+      "value": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security/config/config.default.js"
     },
     "hsts": {
-      "enable": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-security/config/config.local.js",
-      "maxAge": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-security/config/config.default.js",
-      "includeSubdomains": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-security/config/config.default.js"
+      "enable": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security/config/config.default.js"
     },
     "dta": {
-      "enable": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-security/config/config.default.js"
+      "enable": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security/config/config.default.js"
     },
     "methodnoallow": {
-      "enable": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-security/config/config.default.js"
+      "enable": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security/config/config.default.js"
     },
     "noopen": {
-      "enable": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-security/config/config.default.js"
+      "enable": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security/config/config.default.js"
     },
     "nosniff": {
-      "enable": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-security/config/config.default.js"
+      "enable": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security/config/config.default.js"
     },
     "referrerPolicy": {
-      "enable": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-security/config/config.default.js",
-      "value": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-security/config/config.default.js"
+      "enable": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security/config/config.default.js",
+      "value": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security/config/config.default.js"
     },
     "xssProtection": {
-      "enable": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-security/config/config.default.js",
-      "value": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-security/config/config.default.js"
+      "enable": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security/config/config.default.js",
+      "value": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security/config/config.default.js"
     },
     "csp": {
-      "enable": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-security/config/config.default.js",
-      "policy": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-security/config/config.default.js"
+      "enable": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security/config/config.default.js",
+      "policy": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security/config/config.default.js"
     },
     "ssrf": {
-      "ipBlackList": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-security/config/config.default.js",
-      "checkAddress": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-security/config/config.default.js"
+      "ipBlackList": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security/config/config.default.js"
     }
   },
   "helper": {
-    "shtml": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-security/config/config.default.js"
+    "shtml": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security/config/config.default.js"
   },
   "jsonp": {
-    "limit": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-jsonp/config/config.default.js",
-    "callback": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-jsonp/config/config.default.js",
-    "csrf": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-jsonp/config/config.default.js"
+    "limit": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-jsonp/config/config.default.js"
   },
   "onerror": {
-    "errorPageUrl": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-onerror/config/config.default.js",
-    "appErrorFilter": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-onerror/config/config.default.js",
-    "templatePath": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-onerror/config/config.default.js"
+    "errorPageUrl": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-onerror/config/config.default.js"
   },
   "i18n": {
-    "defaultLocale": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-i18n/config/config.default.js",
-    "dirs": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-i18n/config/config.default.js",
-    "queryField": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-i18n/config/config.default.js",
-    "cookieField": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-i18n/config/config.default.js",
-    "cookieMaxAge": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-i18n/config/config.default.js"
+    "defaultLocale": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-i18n/config/config.default.js"
   },
   "watcher": {
-    "type": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-watcher/config/config.local.js",
+    "type": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-watcher/config/config.local.js",
     "eventSources": {
-      "default": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-watcher/config/config.default.js",
-      "development": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-watcher/config/config.default.js"
+      "default": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-watcher/config/config.default.js",
+      "development": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-watcher/config/config.default.js"
     }
   },
   "multipart": {
-    "autoFields": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-multipart/config/config.default.js",
-    "defaultCharset": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-multipart/config/config.default.js",
-    "fieldNameSize": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-multipart/config/config.default.js",
-    "fieldSize": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-multipart/config/config.default.js",
-    "fields": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-multipart/config/config.default.js",
-    "fileSize": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-multipart/config/config.default.js",
-    "files": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-multipart/config/config.default.js",
-    "fileExtensions": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-multipart/config/config.default.js",
-    "whitelist": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-multipart/config/config.default.js"
+    "autoFields": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-multipart/config/config.default.js",
+    "files": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-multipart/config/config.default.js"
   },
   "development": {
-    "watchDirs": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-development/config/config.default.js",
-    "ignoreDirs": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-development/config/config.default.js",
-    "fastReady": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-development/config/config.default.js",
-    "reloadOnDebug": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-development/config/config.default.js",
-    "overrideDefault": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-development/config/config.default.js"
+    "watchDirs": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-development/config/config.default.js"
   },
   "customLogger": {
     "scheduleLogger": {
-      "consoleLevel": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-schedule/config/config.default.js",
-      "file": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-schedule/config/config.default.js"
+      "consoleLevel": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-schedule/config/config.default.js",
+      "file": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-schedule/config/config.default.js"
     }
   },
   "logrotator": {
-    "filesRotateByHour": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-logrotator/config/config.default.js",
-    "hourDelimiter": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-logrotator/config/config.default.js",
-    "filesRotateBySize": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-logrotator/config/config.default.js",
-    "maxFileSize": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-logrotator/config/config.default.js",
-    "maxFiles": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-logrotator/config/config.default.js",
-    "rotateDuration": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-logrotator/config/config.default.js",
-    "maxDays": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-logrotator/config/config.default.js"
+    "filesRotateByHour": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-logrotator/config/config.default.js"
   },
   "static": {
-    "prefix": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-static/config/config.default.js",
-    "dir": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-static/config/config.default.js",
-    "dynamic": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-static/config/config.default.js",
-    "preload": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-static/config/config.default.js",
-    "buffer": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-static/config/config.default.js",
-    "maxFiles": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-static/config/config.default.js"
+    "prefix": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-static/config/config.default.js",
+    "dir": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-static/config/config.default.js",
+    "preload": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-static/config/config.default.js",
+    "buffer": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-static/config/config.default.js"
   },
   "view": {
-    "root": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-view/config/config.default.js",
-    "cache": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-view/config/config.local.js",
-    "defaultExtension": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-view/config/config.default.js",
-    "defaultViewEngine": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-view/config/config.default.js",
-    "mapping": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg-view/config/config.default.js"
+    "root": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-view/config/config.default.js",
+    "cache": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-view/config/config.default.js",
+    "mapping": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-view/config/config.default.js"
   },
-  "env": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-  "name": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-  "proxy": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-  "protocolHeaders": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-  "ipHeaders": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-  "hostHeaders": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
+  "env": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+  "name": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+  "proxy": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
   "pkg": {
-    "name": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-    "version": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-    "description": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-    "private": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
+    "name": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+    "version": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+    "description": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+    "private": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
     "dependencies": {
-      "egg": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-      "egg-scripts": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js"
+      "egg": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "egg-mongoose": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js"
     },
     "devDependencies": {
-      "autod": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-      "autod-egg": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-      "egg-bin": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-      "egg-ci": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-      "egg-mock": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-      "eslint": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-      "eslint-config-egg": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-      "webstorm-disable-index": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js"
+      "autod": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "autod-egg": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "egg-bin": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "egg-ci": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "egg-mock": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "eslint": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "webstorm-disable-index": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js"
     },
     "engines": {
-      "node": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js"
+      "node": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js"
     },
     "scripts": {
-      "start": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-      "stop": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-      "dev": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-      "debug": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-      "test": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-      "test-local": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-      "cov": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-      "lint": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-      "ci": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-      "autod": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js"
+      "start": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "stop": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "dev": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "debug": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "test": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "test-local": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "cov": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "lint": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "ci": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "autod": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js"
     },
     "ci": {
-      "version": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js"
+      "version": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js"
     },
     "repository": {
-      "type": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-      "url": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js"
+      "type": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "url": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js"
     },
-    "author": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-    "license": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js"
+    "author": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+    "license": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js"
   },
-  "baseDir": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-  "HOME": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-  "rundir": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
+  "baseDir": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+  "HOME": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+  "rundir": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
   "dump": {
-    "ignore": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js"
+    "ignore": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js"
   },
   "confusedConfigurations": {
-    "bodyparser": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-    "notFound": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-    "sitefile": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-    "middlewares": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-    "httpClient": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js"
+    "bodyparser": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+    "notFound": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+    "sitefile": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+    "middlewares": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+    "httpClient": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js"
   },
   "notfound": {
-    "pageUrl": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js"
+    "pageUrl": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js"
   },
   "siteFile": {
-    "/favicon.ico": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js"
+    "/favicon.ico": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js"
   },
   "bodyParser": {
-    "enable": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-    "encoding": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-    "formLimit": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-    "jsonLimit": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-    "strict": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
+    "enable": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+    "encoding": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+    "formLimit": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+    "strict": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
     "queryString": {
-      "arrayLimit": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-      "depth": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-      "parameterLimit": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js"
+      "arrayLimit": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "depth": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js"
     }
   },
   "logger": {
-    "dir": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-    "encoding": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-    "env": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-    "level": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-    "consoleLevel": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-    "disableConsoleAfterReady": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-    "outputJSON": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-    "buffer": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-    "appLogName": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-    "coreLogName": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-    "agentLogName": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-    "errorLogName": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
+    "dir": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+    "encoding": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+    "env": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+    "level": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+    "outputJSON": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+    "buffer": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+    "appLogName": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+    "coreLogName": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+    "agentLogName": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+    "errorLogName": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
     "coreLogger": {
-      "consoleLevel": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.local.js"
+      "consoleLevel": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.local.js"
     },
-    "allowDebugAtProd": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js"
+    "allowDebugAtProd": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js"
   },
   "httpclient": {
-    "enableDNSCache": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-    "dnsCacheMaxLength": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-    "dnsCacheMaxAge": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
+    "enableDNSCache": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxAge": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
     "request": {
-      "timeout": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js"
+      "timeout": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js"
     },
     "httpAgent": {
-      "keepAlive": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-      "freeSocketKeepAliveTimeout": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-      "maxSockets": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-      "maxFreeSockets": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js"
+      "keepAlive": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "maxSockets": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js"
     },
     "httpsAgent": {
-      "keepAlive": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-      "freeSocketKeepAliveTimeout": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-      "maxSockets": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-      "maxFreeSockets": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js"
+      "keepAlive": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "maxSockets": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js"
     }
   },
   "meta": {
-    "enable": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-    "logging": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js"
+    "enable": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+    "logging": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js"
   },
-  "coreMiddleware": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-  "workerStartTimeout": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
+  "coreMiddleware": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
   "cluster": {
     "listen": {
-      "path": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-      "port": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-      "hostname": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js"
+      "path": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "port": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+      "hostname": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js"
     }
   },
   "clusterClient": {
-    "maxWaitTime": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js",
-    "responseTimeout": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js"
+    "maxWaitTime": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js"
   },
-  "onClientError": "/home/caomiao/workspace/EGG/egg-example/node_modules/egg/config/config.default.js"
+  "onClientError": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/config.default.js"
 }

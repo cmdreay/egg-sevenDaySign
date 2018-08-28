@@ -16,3 +16,321 @@ name: "ENOSPCError"
 pid: 5218
 hostname: caomiao-Lenovo-TianYi-100-15IBD
 
+2018-08-28 12:16:14,414 ERROR 9177 nodejs.ENOSPCError: watch /home/caomiao/workspace/EGG/egg-sample/app/middleware ENOSPC
+    at exports._errnoException (util.js:1016:11)
+    at FSWatcher.start (fs.js:1384:19)
+    at Object.fs.watch (fs.js:1410:11)
+    at Walk.<anonymous> (/home/caomiao/workspace/EGG/egg-sample/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:125:13)
+    at Walk.emit (events.js:213:7)
+    at /home/caomiao/workspace/EGG/egg-sample/node_modules/ndir/lib/ndir.js:90:12
+    at FSReqWrap.oncomplete (fs.js:135:15)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/caomiao/workspace/EGG/egg-sample/app/middleware"
+filename: "/home/caomiao/workspace/EGG/egg-sample/app/middleware"
+dir: "/home/caomiao/workspace/EGG/egg-sample/app/middleware"
+name: "ENOSPCError"
+pid: 9177
+hostname: caomiao-Lenovo-TianYi-100-15IBD
+
+2018-08-28 12:28:12,905 ERROR 10399 nodejs.ENOSPCError: watch /home/caomiao/workspace/EGG/egg-sample/app/service ENOSPC
+    at exports._errnoException (util.js:1016:11)
+    at FSWatcher.start (fs.js:1384:19)
+    at Object.fs.watch (fs.js:1410:11)
+    at Walk.<anonymous> (/home/caomiao/workspace/EGG/egg-sample/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:125:13)
+    at Walk.emit (events.js:213:7)
+    at /home/caomiao/workspace/EGG/egg-sample/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/caomiao/workspace/EGG/egg-sample/app/service"
+filename: "/home/caomiao/workspace/EGG/egg-sample/app/service"
+dir: "/home/caomiao/workspace/EGG/egg-sample/app/service"
+name: "ENOSPCError"
+pid: 10399
+hostname: caomiao-Lenovo-TianYi-100-15IBD
+
+2018-08-28 12:30:02,189 ERROR 10512 nodejs.ENOSPCError: watch /home/caomiao/workspace/EGG/egg-sample/app/service ENOSPC
+    at exports._errnoException (util.js:1016:11)
+    at FSWatcher.start (fs.js:1384:19)
+    at Object.fs.watch (fs.js:1410:11)
+    at Walk.<anonymous> (/home/caomiao/workspace/EGG/egg-sample/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:125:13)
+    at Walk.emit (events.js:213:7)
+    at /home/caomiao/workspace/EGG/egg-sample/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/caomiao/workspace/EGG/egg-sample/app/service"
+filename: "/home/caomiao/workspace/EGG/egg-sample/app/service"
+dir: "/home/caomiao/workspace/EGG/egg-sample/app/service"
+name: "ENOSPCError"
+pid: 10512
+hostname: caomiao-Lenovo-TianYi-100-15IBD
+
+2018-08-28 12:31:12,493 ERROR 10632 nodejs.ENOSPCError: watch /home/caomiao/workspace/EGG/egg-sample/app/service ENOSPC
+    at exports._errnoException (util.js:1016:11)
+    at FSWatcher.start (fs.js:1384:19)
+    at Object.fs.watch (fs.js:1410:11)
+    at Walk.<anonymous> (/home/caomiao/workspace/EGG/egg-sample/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:125:13)
+    at Walk.emit (events.js:213:7)
+    at /home/caomiao/workspace/EGG/egg-sample/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/caomiao/workspace/EGG/egg-sample/app/service"
+filename: "/home/caomiao/workspace/EGG/egg-sample/app/service"
+dir: "/home/caomiao/workspace/EGG/egg-sample/app/service"
+name: "ENOSPCError"
+pid: 10632
+hostname: caomiao-Lenovo-TianYi-100-15IBD
+
+2018-08-28 12:31:49,093 ERROR 10707 nodejs.ENOSPCError: watch /home/caomiao/workspace/EGG/egg-sample/app/service ENOSPC
+    at exports._errnoException (util.js:1016:11)
+    at FSWatcher.start (fs.js:1384:19)
+    at Object.fs.watch (fs.js:1410:11)
+    at Walk.<anonymous> (/home/caomiao/workspace/EGG/egg-sample/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:125:13)
+    at Walk.emit (events.js:213:7)
+    at /home/caomiao/workspace/EGG/egg-sample/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/caomiao/workspace/EGG/egg-sample/app/service"
+filename: "/home/caomiao/workspace/EGG/egg-sample/app/service"
+dir: "/home/caomiao/workspace/EGG/egg-sample/app/service"
+name: "ENOSPCError"
+pid: 10707
+hostname: caomiao-Lenovo-TianYi-100-15IBD
+
+2018-08-28 12:32:52,501 ERROR 10788 nodejs.ENOSPCError: watch /home/caomiao/workspace/EGG/egg-sample/app/service ENOSPC
+    at exports._errnoException (util.js:1016:11)
+    at FSWatcher.start (fs.js:1384:19)
+    at Object.fs.watch (fs.js:1410:11)
+    at Walk.<anonymous> (/home/caomiao/workspace/EGG/egg-sample/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:125:13)
+    at Walk.emit (events.js:213:7)
+    at /home/caomiao/workspace/EGG/egg-sample/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/caomiao/workspace/EGG/egg-sample/app/service"
+filename: "/home/caomiao/workspace/EGG/egg-sample/app/service"
+dir: "/home/caomiao/workspace/EGG/egg-sample/app/service"
+name: "ENOSPCError"
+pid: 10788
+hostname: caomiao-Lenovo-TianYi-100-15IBD
+
+2018-08-28 13:04:26,117 ERROR 11490 nodejs.ENOSPCError: watch /home/caomiao/workspace/EGG/egg-sample/app/service ENOSPC
+    at exports._errnoException (util.js:1016:11)
+    at FSWatcher.start (fs.js:1384:19)
+    at Object.fs.watch (fs.js:1410:11)
+    at Walk.<anonymous> (/home/caomiao/workspace/EGG/egg-sample/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:125:13)
+    at Walk.emit (events.js:213:7)
+    at /home/caomiao/workspace/EGG/egg-sample/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/caomiao/workspace/EGG/egg-sample/app/service"
+filename: "/home/caomiao/workspace/EGG/egg-sample/app/service"
+dir: "/home/caomiao/workspace/EGG/egg-sample/app/service"
+name: "ENOSPCError"
+pid: 11490
+hostname: caomiao-Lenovo-TianYi-100-15IBD
+
+2018-08-28 13:04:56,868 ERROR 11558 nodejs.ENOSPCError: watch /home/caomiao/workspace/EGG/egg-sample/app/service ENOSPC
+    at exports._errnoException (util.js:1016:11)
+    at FSWatcher.start (fs.js:1384:19)
+    at Object.fs.watch (fs.js:1410:11)
+    at Walk.<anonymous> (/home/caomiao/workspace/EGG/egg-sample/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:125:13)
+    at Walk.emit (events.js:213:7)
+    at /home/caomiao/workspace/EGG/egg-sample/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/caomiao/workspace/EGG/egg-sample/app/service"
+filename: "/home/caomiao/workspace/EGG/egg-sample/app/service"
+dir: "/home/caomiao/workspace/EGG/egg-sample/app/service"
+name: "ENOSPCError"
+pid: 11558
+hostname: caomiao-Lenovo-TianYi-100-15IBD
+
+2018-08-28 13:06:01,472 ERROR 11649 nodejs.ENOSPCError: watch /home/caomiao/workspace/EGG/egg-sample/app/service ENOSPC
+    at exports._errnoException (util.js:1016:11)
+    at FSWatcher.start (fs.js:1384:19)
+    at Object.fs.watch (fs.js:1410:11)
+    at Walk.<anonymous> (/home/caomiao/workspace/EGG/egg-sample/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:125:13)
+    at Walk.emit (events.js:213:7)
+    at /home/caomiao/workspace/EGG/egg-sample/node_modules/ndir/lib/ndir.js:107:16
+    at FSReqWrap.oncomplete (fs.js:153:5)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/caomiao/workspace/EGG/egg-sample/app/service"
+filename: "/home/caomiao/workspace/EGG/egg-sample/app/service"
+dir: "/home/caomiao/workspace/EGG/egg-sample/app/service"
+name: "ENOSPCError"
+pid: 11649
+hostname: caomiao-Lenovo-TianYi-100-15IBD
+
+2018-08-28 16:20:49,696 ERROR 18327 [-/127.0.0.1/-/11ms GET /] nodejs.ReferenceError: app is not defined
+    at /home/caomiao/workspace/EGG/egg-sample/app/middleware/error_handler.js:8:7
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:169:7)
+
+pid: 18327
+hostname: caomiao-Lenovo-TianYi-100-15IBD
+
+2018-08-28 16:31:50,741 ERROR 18821 [-/127.0.0.1/-/14ms GET /] nodejs.ReferenceError: app is not defined
+    at /home/caomiao/workspace/EGG/egg-sample/app/middleware/error_handler.js:9:7
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:169:7)
+
+pid: 18821
+hostname: caomiao-Lenovo-TianYi-100-15IBD
+
+2018-08-28 16:32:32,917 ERROR 18875 [-/127.0.0.1/-/12ms GET /] nodejs.ReferenceError: app is not defined
+    at /home/caomiao/workspace/EGG/egg-sample/app/middleware/error_handler.js:9:7
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:169:7)
+
+pid: 18875
+hostname: caomiao-Lenovo-TianYi-100-15IBD
+
+2018-08-28 16:32:48,618 ERROR 18897 [-/127.0.0.1/-/18ms GET /] nodejs.ReferenceError: app is not defined
+    at /home/caomiao/workspace/EGG/egg-sample/app/middleware/error_handler.js:9:7
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:169:7)
+
+pid: 18897
+hostname: caomiao-Lenovo-TianYi-100-15IBD
+
+2018-08-28 16:33:17,069 ERROR 18938 [-/127.0.0.1/-/8ms GET /] nodejs.TypeError: service.home.getHoe is not a function
+    at HomeController.index (/home/caomiao/workspace/EGG/egg-sample/app/controller/home.js:9:35)
+    at Object.callFn (/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/home/caomiao/workspace/EGG/egg-sample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/caomiao/workspace/EGG/egg-sample/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/caomiao/workspace/EGG/egg-sample/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/home/caomiao/workspace/EGG/egg-sample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /home/caomiao/workspace/EGG/egg-sample/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/home/caomiao/workspace/EGG/egg-sample/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/home/caomiao/workspace/EGG/egg-sample/node_modules/koa-compose/index.js:42:32)
+    at /home/caomiao/workspace/EGG/egg-sample/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/home/caomiao/workspace/EGG/egg-sample/node_modules/koa-compose/index.js:42:32)
+    at i18n (/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-i18n/app/middleware/i18n.js:13:12)
+    at dispatch (/home/caomiao/workspace/EGG/egg-sample/node_modules/koa-compose/index.js:42:32)
+
+pid: 18938
+hostname: caomiao-Lenovo-TianYi-100-15IBD
+
+2018-08-28 16:34:17,865 ERROR 18994 [-/127.0.0.1/-/10ms GET /] nodejs.ReferenceError: app is not defined
+    at /home/caomiao/workspace/EGG/egg-sample/app/middleware/error_handler.js:8:7
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:169:7)
+
+pid: 18994
+hostname: caomiao-Lenovo-TianYi-100-15IBD
+
+2018-08-28 16:34:40,508 ERROR 18994 [-/127.0.0.1/-/3ms GET /] nodejs.ReferenceError: app is not defined
+    at /home/caomiao/workspace/EGG/egg-sample/app/middleware/error_handler.js:8:7
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:169:7)
+
+pid: 18994
+hostname: caomiao-Lenovo-TianYi-100-15IBD
+
+2018-08-28 16:35:17,979 ERROR 19050 [-/127.0.0.1/-/12ms GET /] nodejs.ReferenceError: status is not defined
+    at /home/caomiao/workspace/EGG/egg-sample/app/middleware/error_handler.js:8:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:169:7)
+
+pid: 19050
+hostname: caomiao-Lenovo-TianYi-100-15IBD
+
+2018-08-28 16:35:26,627 ERROR 19050 [-/127.0.0.1/-/1ms GET /] nodejs.ReferenceError: status is not defined
+    at /home/caomiao/workspace/EGG/egg-sample/app/middleware/error_handler.js:8:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:169:7)
+
+pid: 19050
+hostname: caomiao-Lenovo-TianYi-100-15IBD
+
+2018-08-28 16:37:55,484 ERROR 19141 [-/127.0.0.1/-/11ms GET /] nodejs.ReferenceError: app is not defined
+    at /home/caomiao/workspace/EGG/egg-sample/app/middleware/error_handler.js:8:7
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:169:7)
+
+pid: 19141
+hostname: caomiao-Lenovo-TianYi-100-15IBD
+
+2018-08-28 16:38:36,939 ERROR 19187 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: service.home.getHoe is not a function
+    at HomeController.index (/home/caomiao/workspace/EGG/egg-sample/app/controller/home.js:9:35)
+    at Object.callFn (/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/home/caomiao/workspace/EGG/egg-sample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/caomiao/workspace/EGG/egg-sample/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/caomiao/workspace/EGG/egg-sample/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/home/caomiao/workspace/EGG/egg-sample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /home/caomiao/workspace/EGG/egg-sample/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/home/caomiao/workspace/EGG/egg-sample/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/home/caomiao/workspace/EGG/egg-sample/node_modules/koa-compose/index.js:42:32)
+    at /home/caomiao/workspace/EGG/egg-sample/app/middleware/error_handler.js:5:13
+    at dispatch (/home/caomiao/workspace/EGG/egg-sample/node_modules/koa-compose/index.js:42:32)
+    at /home/caomiao/workspace/EGG/egg-sample/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/home/caomiao/workspace/EGG/egg-sample/node_modules/koa-compose/index.js:42:32)
+
+pid: 19187
+hostname: caomiao-Lenovo-TianYi-100-15IBD
+
+2018-08-28 16:41:09,164 ERROR 19288 [-/127.0.0.1/-/0ms GET /] nodejs.TypeError: service.home.getHoe is not a function
+    at HomeController.index (/home/caomiao/workspace/EGG/egg-sample/app/controller/home.js:9:35)
+    at Object.callFn (/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/home/caomiao/workspace/EGG/egg-sample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/caomiao/workspace/EGG/egg-sample/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/caomiao/workspace/EGG/egg-sample/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/home/caomiao/workspace/EGG/egg-sample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /home/caomiao/workspace/EGG/egg-sample/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/home/caomiao/workspace/EGG/egg-sample/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/home/caomiao/workspace/EGG/egg-sample/node_modules/koa-compose/index.js:42:32)
+    at /home/caomiao/workspace/EGG/egg-sample/app/middleware/error_handler.js:5:13
+    at dispatch (/home/caomiao/workspace/EGG/egg-sample/node_modules/koa-compose/index.js:42:32)
+    at /home/caomiao/workspace/EGG/egg-sample/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/home/caomiao/workspace/EGG/egg-sample/node_modules/koa-compose/index.js:42:32)
+
+pid: 19288
+hostname: caomiao-Lenovo-TianYi-100-15IBD
+
+2018-08-28 16:55:04,241 ERROR 19701 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: service.home.getHoe is not a function
+    at HomeController.index (/home/caomiao/workspace/EGG/egg-sample/app/controller/home.js:9:35)
+    at Object.callFn (/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/home/caomiao/workspace/EGG/egg-sample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/caomiao/workspace/EGG/egg-sample/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/caomiao/workspace/EGG/egg-sample/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/home/caomiao/workspace/EGG/egg-sample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /home/caomiao/workspace/EGG/egg-sample/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/home/caomiao/workspace/EGG/egg-sample/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/home/caomiao/workspace/EGG/egg-sample/node_modules/koa-compose/index.js:42:32)
+    at /home/caomiao/workspace/EGG/egg-sample/app/middleware/error_handler.js:5:13
+    at dispatch (/home/caomiao/workspace/EGG/egg-sample/node_modules/koa-compose/index.js:42:32)
+    at /home/caomiao/workspace/EGG/egg-sample/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/home/caomiao/workspace/EGG/egg-sample/node_modules/koa-compose/index.js:42:32)
+
+pid: 19701
+hostname: caomiao-Lenovo-TianYi-100-15IBD
+
