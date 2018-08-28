@@ -1,0 +1,2 @@
+2018-08-28 11:00:05,510 INFO 5218 [Timer] /home/caomiao/workspace/EGG/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-08-29 00:00:00.000
+2018-08-28 11:00:05,514 INFO 5218 [Timer] /home/caomiao/workspace/EGG/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-08-29 00:00:01.000

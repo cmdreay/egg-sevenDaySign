@@ -1,0 +1,18 @@
+2018-08-28 11:04:45,554 ERROR 5218 nodejs.ENOSPCError: watch /home/caomiao/workspace/EGG/egg-example/app/service ENOSPC
+    at exports._errnoException (util.js:1016:11)
+    at FSWatcher.start (fs.js:1384:19)
+    at Object.fs.watch (fs.js:1410:11)
+    at Walk.<anonymous> (/home/caomiao/workspace/EGG/egg-example/node_modules/wt/index.js:183:20)
+    at emitTwo (events.js:125:13)
+    at Walk.emit (events.js:213:7)
+    at /home/caomiao/workspace/EGG/egg-example/node_modules/ndir/lib/ndir.js:90:12
+    at FSReqWrap.oncomplete (fs.js:135:15)
+code: "ENOSPC"
+errno: "ENOSPC"
+syscall: "watch /home/caomiao/workspace/EGG/egg-example/app/service"
+filename: "/home/caomiao/workspace/EGG/egg-example/app/service"
+dir: "/home/caomiao/workspace/EGG/egg-example/app/service"
+name: "ENOSPCError"
+pid: 5218
+hostname: caomiao-Lenovo-TianYi-100-15IBD
+
