@@ -103,6 +103,7 @@
         "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-static/config/locales",
         "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-view/config/locales",
         "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-mongoose/config/locales",
+        "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-jwt/config/locales",
         "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/locales",
         "/home/caomiao/workspace/EGG/egg-sample/config/locales"
       ],
@@ -174,13 +175,16 @@
       "app": true,
       "agent": false,
       "client": {
-        "url": "mongodb://172.168.20.222:27016/egg-test?authSource=admin",
+        "url": "mongodb://47.93.5.193:27017/Mector_test?authSource=admin",
         "options": {
-          "user": "root",
-          "pass": "<String len: 4>",
-          "useNewUrlParser": true
+          "user": "mectoradmin",
+          "pass": "<String len: 19>"
         }
       }
+    },
+    "jwt": {
+      "secret": "<String len: 13>",
+      "enable": false
     },
     "env": "local",
     "name": "mector-pro",
@@ -336,11 +340,9 @@
     },
     "onClientError": null,
     "middleware": [
+      "jwt",
       "errorHandler"
     ],
-    "jwt": {
-      "secret": "<String len: 13>"
-    },
     "coreMiddlewares": "~config~coreMiddleware",
     "appMiddlewares": "~config~middleware",
     "appMiddleware": "~config~middleware",
@@ -512,6 +514,19 @@
       "from": "/home/caomiao/workspace/EGG/egg-sample/config/plugin.js",
       "path": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-mongoose",
       "version": "3.1.0"
+    },
+    "jwt": {
+      "enable": true,
+      "package": "egg-jwt",
+      "name": "jwt",
+      "dependencies": [],
+      "optionalDependencies": [
+        "onerror"
+      ],
+      "env": [],
+      "from": "/home/caomiao/workspace/EGG/egg-sample/config/plugin.js",
+      "path": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-jwt",
+      "version": "3.1.2"
     }
   }
 }

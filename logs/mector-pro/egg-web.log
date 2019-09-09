@@ -945,3 +945,59 @@
 2018-08-28 17:47:07,565 INFO 21779 [egg-mongoose] instance[0] start successfully
 2018-08-28 17:47:07,573 INFO 21779 [egg:core] dump config after ready, 4ms
 2018-08-28 18:25:52,285 INFO 21779 [egg-mongoose] mongodb://172.168.20.222:27016/egg-test?authSource=admin reconnected successfully
+2019-09-09 09:44:52,193 INFO 6254 [egg:logger] init all loggers with options: {"dir":"/home/caomiao/workspace/EGG/egg-sample/logs/mector-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"mector-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-09 09:44:52,266 INFO 6254 [egg-schedule]: register schedule /home/caomiao/workspace/EGG/egg-sample/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-09 09:44:52,266 INFO 6254 [egg-schedule]: register schedule /home/caomiao/workspace/EGG/egg-sample/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-09 09:44:53,693 INFO 6254 [egg-mongoose] connecting mongodb://172.168.20.222:27016/egg-test?authSource=admin
+2019-09-09 09:44:54,262 INFO 6254 [egg-static] starting static serve /public/ -> /home/caomiao/workspace/EGG/egg-sample/app/public
+2019-09-09 09:44:54,264 INFO 6254 [egg-security] use csrf middleware
+2019-09-09 09:44:54,264 INFO 6254 [egg-security] use methodnoallow middleware
+2019-09-09 09:44:54,265 INFO 6254 [egg-security] use noopen middleware
+2019-09-09 09:44:54,265 INFO 6254 [egg-security] use nosniff middleware
+2019-09-09 09:44:54,265 INFO 6254 [egg-security] use xssProtection middleware
+2019-09-09 09:44:54,266 INFO 6254 [egg-security] use xframe middleware
+2019-09-09 09:44:54,283 INFO 6254 [egg-security] use dta middleware
+2019-09-09 09:44:54,283 INFO 6254 [egg-security] compose 7 middlewares into one security middleware
+2019-09-09 09:44:54,332 INFO 6254 [egg:core] dump config after load, 5ms
+2019-09-09 09:44:54,336 INFO 6254 [egg-mongoose] starting...
+2019-09-09 09:44:54,390 INFO 6254 [egg-watcher:app] watcher start success
+2019-09-09 09:49:09,447 INFO 6669 [egg:logger] init all loggers with options: {"dir":"/home/caomiao/workspace/EGG/egg-sample/logs/mector-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"mector-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-09 09:49:09,489 INFO 6669 [egg-schedule]: register schedule /home/caomiao/workspace/EGG/egg-sample/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-09 09:49:09,489 INFO 6669 [egg-schedule]: register schedule /home/caomiao/workspace/EGG/egg-sample/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-09 09:49:09,489 INFO 6669 [egg-schedule]: register schedule /home/caomiao/workspace/EGG/egg-sample/app/schedule/update_cache.js
+2019-09-09 09:49:10,209 INFO 6669 [egg-mongoose] connecting mongodb://47.93.5.193:27017/Mector_test?authSource=admin
+2019-09-09 09:49:10,254 INFO 6669 [egg-static] starting static serve /public/ -> /home/caomiao/workspace/EGG/egg-sample/app/public
+2019-09-09 09:49:10,256 INFO 6669 [egg-security] use csrf middleware
+2019-09-09 09:49:10,257 INFO 6669 [egg-security] use methodnoallow middleware
+2019-09-09 09:49:10,257 INFO 6669 [egg-security] use noopen middleware
+2019-09-09 09:49:10,258 INFO 6669 [egg-security] use nosniff middleware
+2019-09-09 09:49:10,258 INFO 6669 [egg-security] use xssProtection middleware
+2019-09-09 09:49:10,258 INFO 6669 [egg-security] use xframe middleware
+2019-09-09 09:49:10,259 INFO 6669 [egg-security] use dta middleware
+2019-09-09 09:49:10,259 INFO 6669 [egg-security] compose 7 middlewares into one security middleware
+2019-09-09 09:49:10,268 INFO 6669 [egg:core] dump config after load, 5ms
+2019-09-09 09:49:10,271 INFO 6669 [egg-mongoose] starting...
+2019-09-09 09:49:10,293 INFO 6669 [egg-watcher:app] watcher start success
+2019-09-09 09:50:29,248 INFO 6886 [egg:logger] init all loggers with options: {"dir":"/home/caomiao/workspace/EGG/egg-sample/logs/mector-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"mector-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-09 09:50:29,289 INFO 6886 [egg-schedule]: register schedule /home/caomiao/workspace/EGG/egg-sample/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-09 09:50:29,289 INFO 6886 [egg-schedule]: register schedule /home/caomiao/workspace/EGG/egg-sample/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-09 09:50:29,289 INFO 6886 [egg-schedule]: register schedule /home/caomiao/workspace/EGG/egg-sample/app/schedule/update_cache.js
+2019-09-09 09:50:29,991 INFO 6886 [egg-mongoose] connecting mongodb://47.93.5.193:27017/Mector_test?authSource=admin
+2019-09-09 09:50:30,040 INFO 6886 [egg-static] starting static serve /public/ -> /home/caomiao/workspace/EGG/egg-sample/app/public
+2019-09-09 09:50:30,043 INFO 6886 [egg-security] use csrf middleware
+2019-09-09 09:50:30,044 INFO 6886 [egg-security] use methodnoallow middleware
+2019-09-09 09:50:30,044 INFO 6886 [egg-security] use noopen middleware
+2019-09-09 09:50:30,044 INFO 6886 [egg-security] use nosniff middleware
+2019-09-09 09:50:30,045 INFO 6886 [egg-security] use xssProtection middleware
+2019-09-09 09:50:30,045 INFO 6886 [egg-security] use xframe middleware
+2019-09-09 09:50:30,045 INFO 6886 [egg-security] use dta middleware
+2019-09-09 09:50:30,045 INFO 6886 [egg-security] compose 7 middlewares into one security middleware
+2019-09-09 09:50:30,054 INFO 6886 [egg:core] dump config after load, 5ms
+2019-09-09 09:50:30,059 INFO 6886 [egg-mongoose] starting...
+2019-09-09 09:50:30,083 INFO 6886 [egg-watcher:app] watcher start success
+2019-09-09 09:50:33,495 INFO 6886 [egg-mongoose] mongodb://47.93.5.193:27017/Mector_test?authSource=admin connected successfully
+2019-09-09 09:50:33,496 INFO 6886 [egg-mongoose] instance[0] start successfully
+2019-09-09 09:50:33,509 INFO 6886 [egg:core] dump config after ready, 11ms
+2019-09-09 09:50:43,531 INFO 6886 [-/127.0.0.1/-/1ms SCHEDULE /__schedule?path=/home/caomiao/workspace/EGG/egg-sample/app/schedule/update_cache.js&interval=10s&type=all] [egg-schedule] /home/caomiao/workspace/EGG/egg-sample/app/schedule/update_cache.js execute succeed, used 1ms
+2019-09-09 09:50:53,529 INFO 6886 [-/127.0.0.1/-/0ms SCHEDULE /__schedule?path=/home/caomiao/workspace/EGG/egg-sample/app/schedule/update_cache.js&interval=10s&type=all] [egg-schedule] /home/caomiao/workspace/EGG/egg-sample/app/schedule/update_cache.js execute succeed, used 0ms
+2019-09-09 09:51:03,530 INFO 6886 [-/127.0.0.1/-/0ms SCHEDULE /__schedule?path=/home/caomiao/workspace/EGG/egg-sample/app/schedule/update_cache.js&interval=10s&type=all] [egg-schedule] /home/caomiao/workspace/EGG/egg-sample/app/schedule/update_cache.js execute succeed, used 0ms

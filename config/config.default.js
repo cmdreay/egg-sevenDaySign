@@ -9,13 +9,13 @@ module.exports = appInfo => {
   // add your config here
   config.middleware = ['errorHandler'];
   // db connet settting
-  const dbname = 'egg-test'
-  const ip = '172.168.20.222'
-  const port = '27016'
+  const dbname = 'Mector_test'
+  const ip = '47.93.5.193'
+  const port = '27017'
   const mongooseOptions = {
-    user: 'root',
-    pass: 'root',
-    useNewUrlParser:true
+    user: 'mectoradmin',
+    pass: '2019mectoradmin2019',
+    // useNewUrlParser:true
     // useMongoClient: true
   }
   config.mongoose = {

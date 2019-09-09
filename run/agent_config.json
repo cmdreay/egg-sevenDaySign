@@ -144,13 +144,16 @@
       "app": true,
       "agent": false,
       "client": {
-        "url": "mongodb://172.168.20.222:27016/egg-test?authSource=admin",
+        "url": "mongodb://47.93.5.193:27017/Mector_test?authSource=admin",
         "options": {
-          "user": "root",
-          "pass": "<String len: 4>",
-          "useNewUrlParser": true
+          "user": "mectoradmin",
+          "pass": "<String len: 19>"
         }
       }
+    },
+    "jwt": {
+      "secret": "<String len: 13>",
+      "enable": false
     },
     "env": "local",
     "name": "mector-pro",
@@ -166,6 +169,7 @@
       "private": true,
       "dependencies": {
         "egg": "^2.2.1",
+        "egg-jwt": "^3.1.2",
         "egg-mongoose": "^3.1.0",
         "egg-scripts": "^2.5.0"
       },
@@ -460,6 +464,19 @@
       "from": "/home/caomiao/workspace/EGG/egg-sample/config/plugin.js",
       "path": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-mongoose",
       "version": "3.1.0"
+    },
+    "jwt": {
+      "enable": true,
+      "package": "egg-jwt",
+      "name": "jwt",
+      "dependencies": [],
+      "optionalDependencies": [
+        "onerror"
+      ],
+      "env": [],
+      "from": "/home/caomiao/workspace/EGG/egg-sample/config/plugin.js",
+      "path": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-jwt",
+      "version": "3.1.2"
     }
   }
 }
