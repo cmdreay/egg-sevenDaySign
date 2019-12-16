@@ -36,3 +36,80 @@
 2019-09-09 09:51:03,530 INFO 6886 [15679938635291164564230520] /home/caomiao/workspace/EGG/egg-sample/app/schedule/update_cache.js task received by app
 2019-09-09 09:51:03,530 INFO 6886 [15679938635291164564230520] /home/caomiao/workspace/EGG/egg-sample/app/schedule/update_cache.js executing by app
 2019-09-09 09:51:03,530 INFO 6886 [15679938635291164564230520] /home/caomiao/workspace/EGG/egg-sample/app/schedule/update_cache.js execute succeed, used 0ms
+2019-12-16 14:23:28,416 INFO 11132 [Timer] E:\gitfile\egg-sample\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute at 2019-12-17 00:00:00.000
+2019-12-16 14:23:28,417 INFO 11132 [Timer] E:\gitfile\egg-sample\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2019-12-17 00:00:01.000
+2019-12-16 14:23:38,418 INFO 11132 [157647741841810284233359799] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:23:38,419 INFO 232 [157647741841810284233359799] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:23:38,420 INFO 232 [157647741841810284233359799] E:\gitfile\egg-sample\app\schedule\update_cache.js executing by app
+2019-12-16 14:23:38,423 INFO 232 [157647741841810284233359799] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 3ms
+2019-12-16 14:23:48,418 INFO 11132 [157647742841810294233221600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:23:48,419 INFO 232 [157647742841810294233221600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:23:48,419 INFO 232 [157647742841810294233221600] E:\gitfile\egg-sample\app\schedule\update_cache.js executing by app
+2019-12-16 14:23:48,420 INFO 232 [157647742841810294233221600] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 1ms
+2019-12-16 14:23:58,420 INFO 11132 [157647743842010304234804400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:23:58,420 INFO 232 [157647743842010304234804400] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:23:58,420 INFO 232 [157647743842010304234804400] E:\gitfile\egg-sample\app\schedule\update_cache.js executing by app
+2019-12-16 14:23:58,421 INFO 232 [157647743842010304234804400] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 1ms
+2019-12-16 14:24:08,420 INFO 11132 [157647744842010314235227300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:24:08,421 INFO 232 [157647744842010314235227300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:24:08,422 INFO 232 [157647744842010314235227300] E:\gitfile\egg-sample\app\schedule\update_cache.js executing by app
+2019-12-16 14:24:08,425 INFO 232 [157647744842010314235227300] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 4ms
+2019-12-16 14:24:18,422 INFO 232 [157647745842010324235573700] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:24:18,422 INFO 232 [157647745842010324235573700] E:\gitfile\egg-sample\app\schedule\update_cache.js executing by app
+2019-12-16 14:24:18,434 INFO 232 [157647745842010324235573700] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 12ms
+2019-12-16 14:24:18,420 INFO 11132 [157647745842010324235573700] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:24:28,422 INFO 232 [157647746842010334236100000] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:24:28,422 INFO 232 [157647746842010334236100000] E:\gitfile\egg-sample\app\schedule\update_cache.js executing by app
+2019-12-16 14:24:28,426 INFO 232 [157647746842010334236100000] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 4ms
+2019-12-16 14:24:28,420 INFO 11132 [157647746842010334236100000] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:24:38,422 INFO 232 [157647747842110344237178600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:24:38,423 INFO 232 [157647747842110344237178600] E:\gitfile\egg-sample\app\schedule\update_cache.js executing by app
+2019-12-16 14:24:38,424 INFO 232 [157647747842110344237178600] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 1ms
+2019-12-16 14:24:38,421 INFO 11132 [157647747842110344237178600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:24:48,422 INFO 11132 [157647748842210354238025600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:24:58,422 INFO 11132 [157647749842210364238026300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:25:08,423 INFO 11132 [157647750842310374239162799] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:25:18,425 INFO 11132 [157647751842510384240517700] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:25:28,425 INFO 11132 [157647752842510394241024500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:25:28,426 INFO 1372 [157647752842510394241024500] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:25:28,426 INFO 1372 [157647752842510394241024500] E:\gitfile\egg-sample\app\schedule\update_cache.js executing by app
+2019-12-16 14:25:28,428 INFO 1372 [157647752842510394241024500] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 2ms
+2019-12-16 14:25:38,427 INFO 11132 [157647753842710404242871400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:25:38,428 INFO 1372 [157647753842710404242871400] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:25:38,428 INFO 1372 [157647753842710404242871400] E:\gitfile\egg-sample\app\schedule\update_cache.js executing by app
+2019-12-16 14:25:38,429 INFO 1372 [157647753842710404242871400] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 1ms
+2019-12-16 14:25:48,427 INFO 11132 [157647754842710414243037400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:25:58,429 INFO 11132 [157647755842910424244633500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:26:08,429 INFO 11132 [157647756842910434244932599] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:26:18,429 INFO 11132 [157647757842910444244405500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:26:18,430 INFO 4444 [157647757842910444244405500] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:26:18,430 INFO 4444 [157647757842910444244405500] E:\gitfile\egg-sample\app\schedule\update_cache.js executing by app
+2019-12-16 14:26:18,432 INFO 4444 [157647757842910444244405500] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 2ms
+2019-12-16 14:26:28,429 INFO 11132 [157647758842910454244711399] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:26:28,430 INFO 4444 [157647758842910454244711399] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:26:28,430 INFO 4444 [157647758842910454244711399] E:\gitfile\egg-sample\app\schedule\update_cache.js executing by app
+2019-12-16 14:26:28,433 INFO 4444 [157647758842910454244711399] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 3ms
+2019-12-16 14:26:38,430 INFO 11132 [157647759843010464245492799] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:26:38,431 INFO 4444 [157647759843010464245492799] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:26:38,431 INFO 4444 [157647759843010464245492799] E:\gitfile\egg-sample\app\schedule\update_cache.js executing by app
+2019-12-16 14:26:38,432 INFO 4444 [157647759843010464245492799] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 1ms
+2019-12-16 14:26:48,430 INFO 11132 [157647760843010474245155600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:26:48,431 INFO 4444 [157647760843010474245155600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:26:48,431 INFO 4444 [157647760843010474245155600] E:\gitfile\egg-sample\app\schedule\update_cache.js executing by app
+2019-12-16 14:26:48,433 INFO 4444 [157647760843010474245155600] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 1ms
+2019-12-16 14:26:58,430 INFO 11132 [157647761843010484245227500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:26:58,431 INFO 4444 [157647761843010484245227500] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:26:58,431 INFO 4444 [157647761843010484245227500] E:\gitfile\egg-sample\app\schedule\update_cache.js executing by app
+2019-12-16 14:26:58,433 INFO 4444 [157647761843010484245227500] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 2ms
+2019-12-16 14:27:08,430 INFO 11132 [157647762843010494245587500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:27:08,431 INFO 4444 [157647762843010494245587500] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:27:08,431 INFO 4444 [157647762843010494245587500] E:\gitfile\egg-sample\app\schedule\update_cache.js executing by app
+2019-12-16 14:27:08,433 INFO 4444 [157647762843010494245587500] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 2ms
+2019-12-16 14:27:18,431 INFO 11132 [157647763843110504246457300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:27:18,432 INFO 4444 [157647763843110504246457300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:27:18,433 INFO 4444 [157647763843110504246457300] E:\gitfile\egg-sample\app\schedule\update_cache.js executing by app
+2019-12-16 14:27:18,436 INFO 4444 [157647763843110504246457300] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 3ms
+2019-12-16 14:27:28,431 INFO 11132 [157647764843110514246784000] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:27:28,433 INFO 4444 [157647764843110514246784000] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:27:28,433 INFO 4444 [157647764843110514246784000] E:\gitfile\egg-sample\app\schedule\update_cache.js executing by app
+2019-12-16 14:27:28,437 INFO 4444 [157647764843110514246784000] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 3ms

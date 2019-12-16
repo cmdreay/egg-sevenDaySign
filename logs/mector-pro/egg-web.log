@@ -1001,3 +1001,80 @@
 2019-09-09 09:50:43,531 INFO 6886 [-/127.0.0.1/-/1ms SCHEDULE /__schedule?path=/home/caomiao/workspace/EGG/egg-sample/app/schedule/update_cache.js&interval=10s&type=all] [egg-schedule] /home/caomiao/workspace/EGG/egg-sample/app/schedule/update_cache.js execute succeed, used 1ms
 2019-09-09 09:50:53,529 INFO 6886 [-/127.0.0.1/-/0ms SCHEDULE /__schedule?path=/home/caomiao/workspace/EGG/egg-sample/app/schedule/update_cache.js&interval=10s&type=all] [egg-schedule] /home/caomiao/workspace/EGG/egg-sample/app/schedule/update_cache.js execute succeed, used 0ms
 2019-09-09 09:51:03,530 INFO 6886 [-/127.0.0.1/-/0ms SCHEDULE /__schedule?path=/home/caomiao/workspace/EGG/egg-sample/app/schedule/update_cache.js&interval=10s&type=all] [egg-schedule] /home/caomiao/workspace/EGG/egg-sample/app/schedule/update_cache.js execute succeed, used 0ms
+2019-12-16 14:23:27,218 INFO 232 [egg:logger] init all loggers with options: {"dir":"E:\\gitfile\\egg-sample\\logs\\mector-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"mector-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-16 14:23:27,255 INFO 232 [egg-schedule]: register schedule E:\gitfile\egg-sample\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-16 14:23:27,255 INFO 232 [egg-schedule]: register schedule E:\gitfile\egg-sample\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-16 14:23:27,255 INFO 232 [egg-schedule]: register schedule E:\gitfile\egg-sample\app\schedule\update_cache.js
+2019-12-16 14:23:27,965 INFO 232 [egg-mongoose] connecting mongodb://47.93.5.193:27017/Mector_test?authSource=admin
+2019-12-16 14:23:28,121 INFO 232 [egg-static] starting static serve /public/ -> E:\gitfile\egg-sample\app\public
+2019-12-16 14:23:28,124 INFO 232 [egg-security] use csrf middleware
+2019-12-16 14:23:28,124 INFO 232 [egg-security] use methodnoallow middleware
+2019-12-16 14:23:28,125 INFO 232 [egg-security] use noopen middleware
+2019-12-16 14:23:28,125 INFO 232 [egg-security] use nosniff middleware
+2019-12-16 14:23:28,126 INFO 232 [egg-security] use xssProtection middleware
+2019-12-16 14:23:28,126 INFO 232 [egg-security] use xframe middleware
+2019-12-16 14:23:28,127 INFO 232 [egg-security] use dta middleware
+2019-12-16 14:23:28,127 INFO 232 [egg-security] compose 7 middlewares into one security middleware
+2019-12-16 14:23:28,135 INFO 232 [egg:core] dump config after load, 4ms
+2019-12-16 14:23:28,139 INFO 232 [egg-mongoose] starting...
+2019-12-16 14:23:28,157 INFO 232 [egg-watcher:app] watcher start success
+2019-12-16 14:23:28,402 INFO 232 [egg-mongoose] mongodb://47.93.5.193:27017/Mector_test?authSource=admin connected successfully
+2019-12-16 14:23:28,403 INFO 232 [egg-mongoose] instance[0] start successfully
+2019-12-16 14:23:28,411 INFO 232 [egg:core] dump config after ready, 7ms
+2019-12-16 14:23:38,423 INFO 232 [-/127.0.0.1/-/3ms SCHEDULE /__schedule?path=E:\gitfile\egg-sample\app\schedule\update_cache.js&interval=10s&type=all] [egg-schedule] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 3ms
+2019-12-16 14:23:48,420 INFO 232 [-/127.0.0.1/-/1ms SCHEDULE /__schedule?path=E:\gitfile\egg-sample\app\schedule\update_cache.js&interval=10s&type=all] [egg-schedule] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 1ms
+2019-12-16 14:23:58,421 INFO 232 [-/127.0.0.1/-/1ms SCHEDULE /__schedule?path=E:\gitfile\egg-sample\app\schedule\update_cache.js&interval=10s&type=all] [egg-schedule] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 1ms
+2019-12-16 14:24:08,425 INFO 232 [-/127.0.0.1/-/4ms SCHEDULE /__schedule?path=E:\gitfile\egg-sample\app\schedule\update_cache.js&interval=10s&type=all] [egg-schedule] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 4ms
+2019-12-16 14:24:18,434 INFO 232 [-/127.0.0.1/-/12ms SCHEDULE /__schedule?path=E:\gitfile\egg-sample\app\schedule\update_cache.js&interval=10s&type=all] [egg-schedule] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 12ms
+2019-12-16 14:24:28,426 INFO 232 [-/127.0.0.1/-/4ms SCHEDULE /__schedule?path=E:\gitfile\egg-sample\app\schedule\update_cache.js&interval=10s&type=all] [egg-schedule] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 4ms
+2019-12-16 14:24:38,424 INFO 232 [-/127.0.0.1/-/1ms SCHEDULE /__schedule?path=E:\gitfile\egg-sample\app\schedule\update_cache.js&interval=10s&type=all] [egg-schedule] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 1ms
+2019-12-16 14:25:26,469 INFO 1372 [egg:logger] init all loggers with options: {"dir":"E:\\gitfile\\egg-sample\\logs\\mector-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"mector-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-16 14:25:26,505 INFO 1372 [egg-schedule]: register schedule E:\gitfile\egg-sample\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-16 14:25:26,505 INFO 1372 [egg-schedule]: register schedule E:\gitfile\egg-sample\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-16 14:25:26,505 INFO 1372 [egg-schedule]: register schedule E:\gitfile\egg-sample\app\schedule\update_cache.js
+2019-12-16 14:25:27,001 INFO 1372 [egg-mongoose] connecting mongodb://47.93.5.193:27017/Mector_test?authSource=admin
+2019-12-16 14:25:27,071 INFO 1372 [egg-static] starting static serve /public/ -> E:\gitfile\egg-sample\app\public
+2019-12-16 14:25:27,073 INFO 1372 [egg-security] use csrf middleware
+2019-12-16 14:25:27,074 INFO 1372 [egg-security] use methodnoallow middleware
+2019-12-16 14:25:27,074 INFO 1372 [egg-security] use noopen middleware
+2019-12-16 14:25:27,075 INFO 1372 [egg-security] use nosniff middleware
+2019-12-16 14:25:27,075 INFO 1372 [egg-security] use xssProtection middleware
+2019-12-16 14:25:27,076 INFO 1372 [egg-security] use xframe middleware
+2019-12-16 14:25:27,076 INFO 1372 [egg-security] use dta middleware
+2019-12-16 14:25:27,076 INFO 1372 [egg-security] compose 7 middlewares into one security middleware
+2019-12-16 14:25:27,083 INFO 1372 [egg:core] dump config after load, 3ms
+2019-12-16 14:25:27,086 INFO 1372 [egg-mongoose] starting...
+2019-12-16 14:25:27,103 INFO 1372 [egg-watcher:app] watcher start success
+2019-12-16 14:25:27,182 INFO 1372 [egg-mongoose] mongodb://47.93.5.193:27017/Mector_test?authSource=admin connected successfully
+2019-12-16 14:25:27,183 INFO 1372 [egg-mongoose] instance[0] start successfully
+2019-12-16 14:25:27,189 INFO 1372 [egg:core] dump config after ready, 5ms
+2019-12-16 14:25:28,428 INFO 1372 [-/127.0.0.1/-/2ms SCHEDULE /__schedule?path=E:\gitfile\egg-sample\app\schedule\update_cache.js&interval=10s&type=all] [egg-schedule] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 2ms
+2019-12-16 14:25:38,429 INFO 1372 [-/127.0.0.1/-/1ms SCHEDULE /__schedule?path=E:\gitfile\egg-sample\app\schedule\update_cache.js&interval=10s&type=all] [egg-schedule] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 1ms
+2019-12-16 14:26:11,862 INFO 4444 [egg:logger] init all loggers with options: {"dir":"E:\\gitfile\\egg-sample\\logs\\mector-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"mector-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-16 14:26:11,899 INFO 4444 [egg-schedule]: register schedule E:\gitfile\egg-sample\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-12-16 14:26:11,899 INFO 4444 [egg-schedule]: register schedule E:\gitfile\egg-sample\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-12-16 14:26:11,899 INFO 4444 [egg-schedule]: register schedule E:\gitfile\egg-sample\app\schedule\update_cache.js
+2019-12-16 14:26:12,499 INFO 4444 [egg-mongoose] connecting mongodb://47.93.5.193:27017/Mector_test?authSource=admin
+2019-12-16 14:26:12,576 INFO 4444 [egg-static] starting static serve /public/ -> E:\gitfile\egg-sample\app\public
+2019-12-16 14:26:12,579 INFO 4444 [egg-security] use csrf middleware
+2019-12-16 14:26:12,581 INFO 4444 [egg-security] use methodnoallow middleware
+2019-12-16 14:26:12,583 INFO 4444 [egg-security] use noopen middleware
+2019-12-16 14:26:12,584 INFO 4444 [egg-security] use nosniff middleware
+2019-12-16 14:26:12,585 INFO 4444 [egg-security] use xssProtection middleware
+2019-12-16 14:26:12,585 INFO 4444 [egg-security] use xframe middleware
+2019-12-16 14:26:12,586 INFO 4444 [egg-security] use dta middleware
+2019-12-16 14:26:12,586 INFO 4444 [egg-security] compose 7 middlewares into one security middleware
+2019-12-16 14:26:12,595 INFO 4444 [egg:core] dump config after load, 5ms
+2019-12-16 14:26:12,599 INFO 4444 [egg-mongoose] starting...
+2019-12-16 14:26:12,616 INFO 4444 [egg-watcher:app] watcher start success
+2019-12-16 14:26:12,662 INFO 4444 [egg-mongoose] mongodb://47.93.5.193:27017/Mector_test?authSource=admin connected successfully
+2019-12-16 14:26:12,662 INFO 4444 [egg-mongoose] instance[0] start successfully
+2019-12-16 14:26:12,668 INFO 4444 [egg:core] dump config after ready, 4ms
+2019-12-16 14:26:18,432 INFO 4444 [-/127.0.0.1/-/2ms SCHEDULE /__schedule?path=E:\gitfile\egg-sample\app\schedule\update_cache.js&interval=10s&type=all] [egg-schedule] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 2ms
+2019-12-16 14:26:28,433 INFO 4444 [-/127.0.0.1/-/3ms SCHEDULE /__schedule?path=E:\gitfile\egg-sample\app\schedule\update_cache.js&interval=10s&type=all] [egg-schedule] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 3ms
+2019-12-16 14:26:38,432 INFO 4444 [-/127.0.0.1/-/1ms SCHEDULE /__schedule?path=E:\gitfile\egg-sample\app\schedule\update_cache.js&interval=10s&type=all] [egg-schedule] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 1ms
+2019-12-16 14:26:48,432 INFO 4444 [-/127.0.0.1/-/1ms SCHEDULE /__schedule?path=E:\gitfile\egg-sample\app\schedule\update_cache.js&interval=10s&type=all] [egg-schedule] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 1ms
+2019-12-16 14:26:58,433 INFO 4444 [-/127.0.0.1/-/2ms SCHEDULE /__schedule?path=E:\gitfile\egg-sample\app\schedule\update_cache.js&interval=10s&type=all] [egg-schedule] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 2ms
+2019-12-16 14:27:08,433 INFO 4444 [-/127.0.0.1/-/2ms SCHEDULE /__schedule?path=E:\gitfile\egg-sample\app\schedule\update_cache.js&interval=10s&type=all] [egg-schedule] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 2ms
+2019-12-16 14:27:18,436 INFO 4444 [-/127.0.0.1/-/3ms SCHEDULE /__schedule?path=E:\gitfile\egg-sample\app\schedule\update_cache.js&interval=10s&type=all] [egg-schedule] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 3ms
+2019-12-16 14:27:28,437 INFO 4444 [-/127.0.0.1/-/3ms SCHEDULE /__schedule?path=E:\gitfile\egg-sample\app\schedule\update_cache.js&interval=10s&type=all] [egg-schedule] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 3ms

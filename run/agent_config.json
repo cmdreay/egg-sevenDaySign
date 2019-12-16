@@ -73,7 +73,7 @@
     "onerror": {
       "errorPageUrl": "",
       "appErrorFilter": null,
-      "templatePath": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-onerror/lib/onerror_page.mustache"
+      "templatePath": "E:\\gitfile\\egg-sample\\node_modules\\egg-onerror\\lib\\onerror_page.mustache"
     },
     "i18n": {
       "defaultLocale": "en_US",
@@ -85,8 +85,8 @@
     "watcher": {
       "type": "development",
       "eventSources": {
-        "default": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-watcher/lib/event-sources/default",
-        "development": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-watcher/lib/event-sources/development"
+        "default": "E:\\gitfile\\egg-sample\\node_modules\\egg-watcher\\lib\\event-sources\\default",
+        "development": "E:\\gitfile\\egg-sample\\node_modules\\egg-watcher\\lib\\event-sources\\development"
       }
     },
     "multipart": {
@@ -110,7 +110,7 @@
     "customLogger": {
       "scheduleLogger": {
         "consoleLevel": "NONE",
-        "file": "/home/caomiao/workspace/EGG/egg-sample/logs/mector-pro/egg-schedule.log"
+        "file": "E:\\gitfile\\egg-sample\\logs\\mector-pro\\egg-schedule.log"
       }
     },
     "logrotator": {
@@ -124,14 +124,14 @@
     },
     "static": {
       "prefix": "/public/",
-      "dir": "/home/caomiao/workspace/EGG/egg-sample/app/public",
+      "dir": "E:\\gitfile\\egg-sample\\app\\public",
       "dynamic": true,
       "preload": false,
       "buffer": false,
       "maxFiles": 1000
     },
     "view": {
-      "root": "/home/caomiao/workspace/EGG/egg-sample/app/view",
+      "root": "E:\\gitfile\\egg-sample\\app\\view",
       "cache": false,
       "defaultExtension": ".html",
       "defaultViewEngine": "",
@@ -208,9 +208,9 @@
       "author": "cmdreay",
       "license": "MIT"
     },
-    "baseDir": "/home/caomiao/workspace/EGG/egg-sample",
-    "HOME": "/home/caomiao",
-    "rundir": "/home/caomiao/workspace/EGG/egg-sample/run",
+    "baseDir": "E:\\gitfile\\egg-sample",
+    "HOME": "C:\\Users\\Administrator",
+    "rundir": "E:\\gitfile\\egg-sample\\run",
     "dump": {
       "ignore": "<Set>"
     },
@@ -240,7 +240,7 @@
       }
     },
     "logger": {
-      "dir": "/home/caomiao/workspace/EGG/egg-sample/logs/mector-pro",
+      "dir": "E:\\gitfile\\egg-sample\\logs\\mector-pro",
       "encoding": "utf8",
       "env": "local",
       "level": "INFO",
@@ -317,8 +317,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/plugin.js",
-      "path": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-session",
+      "from": "E:\\gitfile\\egg-sample\\node_modules\\egg\\config\\plugin.js",
+      "path": "E:\\gitfile\\egg-sample\\node_modules\\egg-session",
       "version": "3.1.0"
     },
     "security": {
@@ -330,8 +330,8 @@
         "session"
       ],
       "env": [],
-      "from": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/plugin.js",
-      "path": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-security",
+      "from": "E:\\gitfile\\egg-sample\\node_modules\\egg\\config\\plugin.js",
+      "path": "E:\\gitfile\\egg-sample\\node_modules\\egg-security",
       "version": "2.4.0"
     },
     "jsonp": {
@@ -343,8 +343,8 @@
         "security"
       ],
       "env": [],
-      "from": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/plugin.js",
-      "path": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-jsonp",
+      "from": "E:\\gitfile\\egg-sample\\node_modules\\egg\\config\\plugin.js",
+      "path": "E:\\gitfile\\egg-sample\\node_modules\\egg-jsonp",
       "version": "2.0.0"
     },
     "onerror": {
@@ -356,8 +356,8 @@
         "jsonp"
       ],
       "env": [],
-      "from": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/plugin.js",
-      "path": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-onerror",
+      "from": "E:\\gitfile\\egg-sample\\node_modules\\egg\\config\\plugin.js",
+      "path": "E:\\gitfile\\egg-sample\\node_modules\\egg-onerror",
       "version": "2.1.0"
     },
     "i18n": {
@@ -367,8 +367,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/plugin.js",
-      "path": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-i18n",
+      "from": "E:\\gitfile\\egg-sample\\node_modules\\egg\\config\\plugin.js",
+      "path": "E:\\gitfile\\egg-sample\\node_modules\\egg-i18n",
       "version": "2.0.0"
     },
     "watcher": {
@@ -378,8 +378,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/plugin.js",
-      "path": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-watcher",
+      "from": "E:\\gitfile\\egg-sample\\node_modules\\egg\\config\\plugin.js",
+      "path": "E:\\gitfile\\egg-sample\\node_modules\\egg-watcher",
       "version": "3.0.0"
     },
     "multipart": {
@@ -389,8 +389,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/plugin.js",
-      "path": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-multipart",
+      "from": "E:\\gitfile\\egg-sample\\node_modules\\egg\\config\\plugin.js",
+      "path": "E:\\gitfile\\egg-sample\\node_modules\\egg-multipart",
       "version": "2.1.0"
     },
     "development": {
@@ -404,8 +404,8 @@
       "env": [
         "local"
       ],
-      "from": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/plugin.js",
-      "path": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-development",
+      "from": "E:\\gitfile\\egg-sample\\node_modules\\egg\\config\\plugin.js",
+      "path": "E:\\gitfile\\egg-sample\\node_modules\\egg-development",
       "version": "2.4.1"
     },
     "schedule": {
@@ -415,8 +415,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/plugin.js",
-      "path": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-schedule",
+      "from": "E:\\gitfile\\egg-sample\\node_modules\\egg\\config\\plugin.js",
+      "path": "E:\\gitfile\\egg-sample\\node_modules\\egg-schedule",
       "version": "3.4.0"
     },
     "logrotator": {
@@ -428,8 +428,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/plugin.js",
-      "path": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-logrotator",
+      "from": "E:\\gitfile\\egg-sample\\node_modules\\egg\\config\\plugin.js",
+      "path": "E:\\gitfile\\egg-sample\\node_modules\\egg-logrotator",
       "version": "3.0.3"
     },
     "static": {
@@ -439,8 +439,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/plugin.js",
-      "path": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-static",
+      "from": "E:\\gitfile\\egg-sample\\node_modules\\egg\\config\\plugin.js",
+      "path": "E:\\gitfile\\egg-sample\\node_modules\\egg-static",
       "version": "2.1.1"
     },
     "view": {
@@ -450,8 +450,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg/config/plugin.js",
-      "path": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-view",
+      "from": "E:\\gitfile\\egg-sample\\node_modules\\egg\\config\\plugin.js",
+      "path": "E:\\gitfile\\egg-sample\\node_modules\\egg-view",
       "version": "2.1.0"
     },
     "mongoose": {
@@ -461,8 +461,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/home/caomiao/workspace/EGG/egg-sample/config/plugin.js",
-      "path": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-mongoose",
+      "from": "E:\\gitfile\\egg-sample\\config\\plugin.js",
+      "path": "E:\\gitfile\\egg-sample\\node_modules\\egg-mongoose",
       "version": "3.1.0"
     },
     "jwt": {
@@ -474,8 +474,8 @@
         "onerror"
       ],
       "env": [],
-      "from": "/home/caomiao/workspace/EGG/egg-sample/config/plugin.js",
-      "path": "/home/caomiao/workspace/EGG/egg-sample/node_modules/egg-jwt",
+      "from": "E:\\gitfile\\egg-sample\\config\\plugin.js",
+      "path": "E:\\gitfile\\egg-sample\\node_modules\\egg-jwt",
       "version": "3.1.2"
     }
   }

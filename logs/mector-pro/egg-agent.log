@@ -243,3 +243,8 @@
 2019-09-09 09:50:28,683 INFO 6876 [egg:core] dump config after load, 5ms
 2019-09-09 09:50:28,720 INFO 6876 [egg-watcher:agent] watcher start success
 2019-09-09 09:50:28,748 INFO 6876 [egg:core] dump config after ready, 7ms
+2019-12-16 14:23:26,370 INFO 11132 [egg:logger] init all loggers with options: {"dir":"E:\\gitfile\\egg-sample\\logs\\mector-pro","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"mector-pro-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-12-16 14:23:26,431 INFO 11132 [egg:core] dump config after load, 2ms
+2019-12-16 14:23:26,473 INFO 11132 [egg-watcher:agent] watcher start success
+2019-12-16 14:23:26,527 INFO 11132 [egg:core] dump config after ready, 52ms
+2019-12-16 14:23:28,122 INFO 11132 Recieved a change event from eventSource: {"event":"rename","path":"E:\\gitfile\\egg-sample\\app\\public","stat":{"dev":619460864,"mode":16822,"nlink":1,"uid":0,"gid":0,"rdev":0,"blksize":4096,"ino":3377699720540897,"size":0,"blocks":0,"atimeMs":1576477408121.0945,"mtimeMs":1576477408121.0945,"ctimeMs":1576477408121.0945,"birthtimeMs":1576477408121.0945,"atime":"2019-12-16T06:23:28.121Z","mtime":"2019-12-16T06:23:28.121Z","ctime":"2019-12-16T06:23:28.121Z","birthtime":"2019-12-16T06:23:28.121Z"},"remove":false,"isDirectory":true,"isFile":false}
