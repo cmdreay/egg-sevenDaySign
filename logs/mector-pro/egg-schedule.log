@@ -113,3 +113,1161 @@
 2019-12-16 14:27:28,433 INFO 4444 [157647764843110514246784000] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
 2019-12-16 14:27:28,433 INFO 4444 [157647764843110514246784000] E:\gitfile\egg-sample\app\schedule\update_cache.js executing by app
 2019-12-16 14:27:28,437 INFO 4444 [157647764843110514246784000] E:\gitfile\egg-sample\app\schedule\update_cache.js execute succeed, used 3ms
+2019-12-16 14:27:38,432 INFO 11132 [157647765843210524247079800] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:27:38,433 INFO 960 [157647765843210524247079800] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:27:38,433 WARN 960 [157647765843210524247079800] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:27:48,432 INFO 11132 [157647766843210534247765000] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:27:48,434 INFO 960 [157647766843210534247765000] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:27:48,434 WARN 960 [157647766843210534247765000] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:27:58,432 INFO 11132 [157647767843210544247774900] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:27:58,434 INFO 960 [157647767843210544247774900] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:27:58,434 WARN 960 [157647767843210544247774900] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:28:08,432 INFO 11132 [157647768843210554247639899] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:28:08,433 INFO 960 [157647768843210554247639899] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:28:08,433 WARN 960 [157647768843210554247639899] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:28:18,432 INFO 11132 [157647769843210564247880900] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:28:18,433 INFO 960 [157647769843210564247880900] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:28:18,433 WARN 960 [157647769843210564247880900] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:28:28,432 INFO 11132 [157647770843210574247549500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:28:28,434 INFO 960 [157647770843210574247549500] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:28:28,434 WARN 960 [157647770843210574247549500] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:28:38,432 INFO 11132 [157647771843210584247914700] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:28:38,434 INFO 960 [157647771843210584247914700] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:28:38,434 WARN 960 [157647771843210584247914700] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:28:48,433 INFO 11132 [157647772843210594248047300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:28:48,434 INFO 960 [157647772843210594248047300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:28:48,434 WARN 960 [157647772843210594248047300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:28:58,434 INFO 11132 [157647773843410604249365700] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:28:58,435 INFO 960 [157647773843410604249365700] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:28:58,435 WARN 960 [157647773843410604249365700] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:29:08,434 INFO 11132 [157647774843410614249963900] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:29:08,436 INFO 960 [157647774843410614249963900] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:29:08,436 WARN 960 [157647774843410614249963900] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:29:18,435 INFO 11132 [157647775843510624250275600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:29:18,436 INFO 960 [157647775843510624250275600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:29:18,436 WARN 960 [157647775843510624250275600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:29:28,436 INFO 11132 [157647776843610634250913500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:29:28,437 INFO 960 [157647776843610634250913500] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:29:28,437 WARN 960 [157647776843610634250913500] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:29:38,435 INFO 11132 [157647777843510644250254600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:29:38,436 INFO 960 [157647777843510644250254600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:29:38,436 WARN 960 [157647777843510644250254600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:29:48,437 INFO 960 [157647778843710654251776199] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:29:48,437 WARN 960 [157647778843710654251776199] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:29:48,437 INFO 11132 [157647778843710654251776199] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:29:58,438 INFO 960 [157647779843710664252496800] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:29:58,439 WARN 960 [157647779843710664252496800] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:29:58,437 INFO 11132 [157647779843710664252496800] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:30:08,439 INFO 960 [157647780843710674252569299] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:30:08,439 WARN 960 [157647780843710674252569299] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:30:08,438 INFO 11132 [157647780843710674252569299] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:30:18,439 INFO 960 [157647781843810684253340700] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:30:18,439 WARN 960 [157647781843810684253340700] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:30:18,438 INFO 11132 [157647781843810684253340700] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:30:28,439 INFO 960 [157647782843910694253824200] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:30:28,439 WARN 960 [157647782843910694253824200] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:30:28,439 INFO 11132 [157647782843910694253824200] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:30:38,440 INFO 960 [157647783843910704254641500] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:30:38,440 WARN 960 [157647783843910704254641500] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:30:38,440 INFO 11132 [157647783843910704254641500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:30:48,440 INFO 960 [157647784844010714254838300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:30:48,440 WARN 960 [157647784844010714254838300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:30:48,440 INFO 11132 [157647784844010714254838300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:30:58,441 INFO 960 [157647785844010724254839800] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:30:58,441 WARN 960 [157647785844010724254839800] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:30:58,440 INFO 11132 [157647785844010724254839800] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:31:08,441 INFO 960 [157647786844010734255435400] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:31:08,441 WARN 960 [157647786844010734255435400] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:31:08,440 INFO 11132 [157647786844010734255435400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:31:18,441 INFO 960 [157647787844110744256215700] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:31:18,441 WARN 960 [157647787844110744256215700] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:31:18,441 INFO 11132 [157647787844110744256215700] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:31:28,442 INFO 960 [157647788844110754256470900] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:31:28,442 WARN 960 [157647788844110754256470900] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:31:28,441 INFO 11132 [157647788844110754256470900] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:31:38,442 INFO 960 [157647789844210764257029499] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:31:38,442 WARN 960 [157647789844210764257029499] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:31:38,442 INFO 11132 [157647789844210764257029499] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:31:48,444 INFO 960 [157647790844210774257643800] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:31:48,444 WARN 960 [157647790844210774257643800] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:31:48,443 INFO 11132 [157647790844210774257643800] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:31:58,442 INFO 11132 [157647791844210784257271400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:32:08,443 INFO 11132 [157647792844310794258420500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:32:18,444 INFO 11132 [157647793844410804258789599] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:32:28,445 INFO 11132 [157647794844410814259676099] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:32:38,444 INFO 11132 [157647795844410824259623500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:32:48,444 INFO 11132 [157647796844410834259215600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:32:58,444 INFO 11132 [157647797844410844259385700] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:33:08,444 INFO 11132 [157647798844410854259558900] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:33:18,445 INFO 11132 [157647799844510864259758999] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:33:28,445 INFO 11132 [157647800844410874259609200] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:33:38,445 INFO 11132 [157647801844510884260460300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:33:48,446 INFO 11132 [157647802844610894261025500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:33:58,446 INFO 11132 [157647803844610904261156700] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:34:08,447 INFO 11132 [157647804844710914261987799] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:34:18,446 INFO 11132 [157647805844610924261175800] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:34:28,448 INFO 11132 [157647806844810934262726600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:34:38,449 INFO 11132 [157647807844810944263605100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:34:48,449 INFO 11132 [157647808844910954263775700] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:34:58,449 INFO 11132 [157647809844910964264012599] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:35:08,448 INFO 11132 [157647810844810974263453700] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:35:18,449 INFO 11132 [157647811844910984263926700] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:35:28,448 INFO 11132 [157647812844810994263271300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:35:38,449 INFO 11132 [157647813844911004264225600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:35:48,450 INFO 11132 [157647814845011014265044599] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:35:58,450 INFO 11132 [157647815845011024265109400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:36:08,451 INFO 11132 [157647816845111034265887800] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:36:18,451 INFO 11132 [157647817845111044266408399] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:36:28,453 INFO 11132 [157647818845311054267870500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:36:38,453 INFO 11132 [157647819845311064267823700] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:36:48,452 INFO 11132 [157647820845211074267631800] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:36:48,453 INFO 7216 [157647820845211074267631800] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:36:48,453 WARN 7216 [157647820845211074267631800] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:36:58,453 INFO 11132 [157647821845311084268336300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:36:58,453 INFO 7216 [157647821845311084268336300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:36:58,453 WARN 7216 [157647821845311084268336300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:37:08,455 INFO 11132 [157647822845411094269666900] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:37:08,455 INFO 7216 [157647822845411094269666900] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:37:08,455 WARN 7216 [157647822845411094269666900] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:37:18,456 INFO 11132 [157647823845611104270902400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:37:18,456 INFO 7216 [157647823845611104270902400] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:37:18,456 WARN 7216 [157647823845611104270902400] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:37:28,456 INFO 11132 [157647824845611114271011400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:37:28,457 INFO 7216 [157647824845611114271011400] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:37:28,457 WARN 7216 [157647824845611114271011400] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:37:38,455 INFO 11132 [157647825845511124270353799] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:37:38,455 INFO 7216 [157647825845511124270353799] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:37:38,455 WARN 7216 [157647825845511124270353799] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:37:48,456 INFO 11132 [157647826845611134271099500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:37:48,457 INFO 7216 [157647826845611134271099500] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:37:48,457 WARN 7216 [157647826845611134271099500] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:37:58,457 INFO 11132 [157647827845711144271919199] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:37:58,458 INFO 7216 [157647827845711144271919199] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:37:58,458 WARN 7216 [157647827845711144271919199] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:38:08,457 INFO 8292 [157647828845611154271298200] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:38:08,457 WARN 8292 [157647828845611154271298200] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:38:08,456 INFO 11132 [157647828845611154271298200] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:38:18,458 INFO 8292 [157647829845711164271796100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:38:18,458 WARN 8292 [157647829845711164271796100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:38:18,457 INFO 11132 [157647829845711164271796100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:38:28,459 INFO 8292 [157647830845711174272485700] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:38:28,459 WARN 8292 [157647830845711174272485700] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:38:28,457 INFO 11132 [157647830845711174272485700] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:38:38,458 INFO 8292 [157647831845811184272827100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:38:38,458 WARN 8292 [157647831845811184272827100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:38:38,458 INFO 11132 [157647831845811184272827100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:38:48,458 INFO 8292 [157647832845711194272698800] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:38:48,458 WARN 8292 [157647832845711194272698800] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:38:48,458 INFO 11132 [157647832845711194272698800] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:38:58,458 INFO 8292 [157647833845711204272402600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:38:58,458 WARN 8292 [157647833845711204272402600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:38:58,457 INFO 11132 [157647833845711204272402600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:39:08,458 INFO 8292 [157647834845711214272321600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:39:08,458 WARN 8292 [157647834845711214272321600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:39:08,457 INFO 11132 [157647834845711214272321600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:39:18,458 INFO 8292 [157647835845811224273070399] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:39:18,458 WARN 8292 [157647835845811224273070399] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:39:18,458 INFO 11132 [157647835845811224273070399] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:39:28,459 INFO 8292 [157647836845911234274205099] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:39:28,459 WARN 8292 [157647836845911234274205099] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:39:28,459 INFO 11132 [157647836845911234274205099] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:39:38,460 INFO 8292 [157647837845911244274375899] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:39:38,460 WARN 8292 [157647837845911244274375899] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:39:38,459 INFO 11132 [157647837845911244274375899] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:39:48,460 INFO 11132 [157647838846011254274946300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:39:48,461 INFO 10512 [157647838846011254274946300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:39:48,461 WARN 10512 [157647838846011254274946300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:39:58,460 INFO 11132 [157647839846011264275186199] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:39:58,460 INFO 10512 [157647839846011264275186199] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:39:58,460 WARN 10512 [157647839846011264275186199] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:40:08,460 INFO 11132 [157647840846011274275287800] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:40:08,461 INFO 10512 [157647840846011274275287800] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:40:08,461 WARN 10512 [157647840846011274275287800] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:40:18,461 INFO 11132 [157647841846011284275625000] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:40:18,461 INFO 10512 [157647841846011284275625000] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:40:18,461 WARN 10512 [157647841846011284275625000] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:40:28,462 INFO 11132 [157647842846211294276755100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:40:28,462 INFO 10512 [157647842846211294276755100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:40:28,462 WARN 10512 [157647842846211294276755100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:40:38,462 INFO 11132 [157647843846211304276937900] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:40:38,462 INFO 10512 [157647843846211304276937900] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:40:38,462 WARN 10512 [157647843846211304276937900] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:40:48,462 INFO 11132 [157647844846211314277568599] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:40:48,463 INFO 10512 [157647844846211314277568599] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:40:48,463 WARN 10512 [157647844846211314277568599] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:40:58,463 INFO 11132 [157647845846211324277663500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:40:58,463 INFO 10512 [157647845846211324277663500] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:40:58,463 WARN 10512 [157647845846211324277663500] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:41:08,463 INFO 11132 [157647846846311334278250399] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:41:08,463 INFO 10512 [157647846846311334278250399] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:41:08,463 WARN 10512 [157647846846311334278250399] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:41:18,464 INFO 11132 [157647847846411344279053700] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:41:18,464 INFO 10512 [157647847846411344279053700] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:41:18,464 WARN 10512 [157647847846411344279053700] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:41:28,464 INFO 11132 [157647848846411354279504500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:41:28,465 INFO 10512 [157647848846411354279504500] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:41:28,465 WARN 10512 [157647848846411354279504500] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:41:38,465 INFO 11132 [157647849846511364280118400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:41:38,465 INFO 10512 [157647849846511364280118400] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:41:38,465 WARN 10512 [157647849846511364280118400] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:41:48,466 INFO 11132 [157647850846611374281603700] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:41:48,467 INFO 10512 [157647850846611374281603700] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:41:48,467 WARN 10512 [157647850846611374281603700] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:41:58,467 INFO 11132 [157647851846711384281943299] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:41:58,467 INFO 10512 [157647851846711384281943299] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:41:58,467 WARN 10512 [157647851846711384281943299] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:42:08,467 INFO 11132 [157647852846711394281845800] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:42:08,467 INFO 10512 [157647852846711394281845800] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:42:08,467 WARN 10512 [157647852846711394281845800] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:42:18,467 INFO 9012 [157647853846711404282489700] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:42:18,467 WARN 9012 [157647853846711404282489700] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:42:18,467 INFO 11132 [157647853846711404282489700] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:42:28,468 INFO 9012 [157647854846811414282915099] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:42:28,468 WARN 9012 [157647854846811414282915099] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:42:28,468 INFO 11132 [157647854846811414282915099] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:42:38,468 INFO 9012 [157647855846911424283780900] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:42:38,468 WARN 9012 [157647855846911424283780900] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:42:38,469 INFO 11132 [157647855846911424283780900] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:42:48,469 INFO 9012 [157647856846911434284278000] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:42:48,469 WARN 9012 [157647856846911434284278000] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:42:48,469 INFO 11132 [157647856846911434284278000] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:42:58,470 INFO 9012 [157647857847011444284910999] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:42:58,470 WARN 9012 [157647857847011444284910999] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:42:58,470 INFO 11132 [157647857847011444284910999] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:43:08,470 INFO 9012 [157647858847011454285044299] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:43:08,470 WARN 9012 [157647858847011454285044299] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:43:08,470 INFO 11132 [157647858847011454285044299] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:43:18,471 INFO 9012 [157647859847011464285621199] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:43:18,471 WARN 9012 [157647859847011464285621199] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:43:18,471 INFO 11132 [157647859847011464285621199] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:43:28,471 INFO 9012 [157647860847011474285423300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:43:28,471 WARN 9012 [157647860847011474285423300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:43:28,470 INFO 11132 [157647860847011474285423300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:43:38,471 INFO 9012 [157647861847011484285624900] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:43:38,471 WARN 9012 [157647861847011484285624900] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:43:38,471 INFO 11132 [157647861847011484285624900] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:43:48,472 INFO 9012 [157647862847211494287006999] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:43:48,472 WARN 9012 [157647862847211494287006999] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:43:48,472 INFO 11132 [157647862847211494287006999] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:43:58,473 INFO 9012 [157647863847211504287215000] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:43:58,473 WARN 9012 [157647863847211504287215000] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:43:58,472 INFO 11132 [157647863847211504287215000] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:44:08,473 INFO 9012 [157647864847311514287735500] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:44:08,473 WARN 9012 [157647864847311514287735500] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:44:08,473 INFO 11132 [157647864847311514287735500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:44:18,473 INFO 9012 [157647865847311524287985199] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:44:18,473 WARN 9012 [157647865847311524287985199] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:44:18,473 INFO 11132 [157647865847311524287985199] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:44:28,473 INFO 9012 [157647866847211534287618999] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:44:28,473 WARN 9012 [157647866847211534287618999] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:44:28,473 INFO 11132 [157647866847211534287618999] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:44:38,473 INFO 9012 [157647867847311544287735200] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:44:38,473 WARN 9012 [157647867847311544287735200] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:44:38,473 INFO 11132 [157647867847311544287735200] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:44:48,473 INFO 9012 [157647868847311554288057500] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:44:48,473 WARN 9012 [157647868847311554288057500] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:44:48,473 INFO 11132 [157647868847311554288057500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:44:58,474 INFO 9012 [157647869847411564289220300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:44:58,474 WARN 9012 [157647869847411564289220300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:44:58,474 INFO 11132 [157647869847411564289220300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:45:08,475 INFO 9012 [157647870847411574289350000] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:45:08,475 WARN 9012 [157647870847411574289350000] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:45:08,474 INFO 11132 [157647870847411574289350000] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:45:09,334 INFO 6908 [157647870847411574289350000] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:45:09,335 WARN 6908 [157647870847411574289350000] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:45:18,475 INFO 6908 [157647871847511584289790800] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:45:18,475 WARN 6908 [157647871847511584289790800] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:45:18,475 INFO 11132 [157647871847511584289790800] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:45:28,475 INFO 6908 [157647872847411594289559900] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:45:28,475 WARN 6908 [157647872847411594289559900] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:45:28,474 INFO 11132 [157647872847411594289559900] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:45:38,476 INFO 6908 [157647873847611604290745800] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:45:38,476 WARN 6908 [157647873847611604290745800] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:45:38,476 INFO 11132 [157647873847611604290745800] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:45:48,476 INFO 6908 [157647874847611614291125500] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:45:48,476 WARN 6908 [157647874847611614291125500] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:45:48,476 INFO 11132 [157647874847611614291125500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:45:58,477 INFO 6908 [157647875847711624291795700] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:45:58,477 WARN 6908 [157647875847711624291795700] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:45:58,477 INFO 11132 [157647875847711624291795700] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:46:08,478 INFO 6908 [157647876847711634292535200] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:46:08,478 WARN 6908 [157647876847711634292535200] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:46:08,477 INFO 11132 [157647876847711634292535200] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:46:18,478 INFO 6908 [157647877847711644292356400] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:46:18,478 WARN 6908 [157647877847711644292356400] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:46:18,477 INFO 11132 [157647877847711644292356400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:46:28,479 INFO 6908 [157647878847711654292620100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:46:28,479 WARN 6908 [157647878847711654292620100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:46:28,478 INFO 11132 [157647878847711654292620100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:46:38,478 INFO 6908 [157647879847711664292362500] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:46:38,478 WARN 6908 [157647879847711664292362500] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:46:38,477 INFO 11132 [157647879847711664292362500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:46:48,478 INFO 6908 [157647880847811674293415700] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:46:48,478 WARN 6908 [157647880847811674293415700] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:46:48,478 INFO 11132 [157647880847811674293415700] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:46:58,480 INFO 6908 [157647881847811684293703100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:46:58,480 WARN 6908 [157647881847811684293703100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:46:58,479 INFO 11132 [157647881847811684293703100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:47:08,478 INFO 6908 [157647882847811694293430200] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:47:08,478 WARN 6908 [157647882847811694293430200] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:47:08,478 INFO 11132 [157647882847811694293430200] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:47:18,480 INFO 6908 [157647883847911704293945200] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:47:18,480 WARN 6908 [157647883847911704293945200] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:47:18,479 INFO 11132 [157647883847911704293945200] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:47:28,478 INFO 6908 [157647884847811714293289300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:47:28,478 WARN 6908 [157647884847811714293289300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:47:28,478 INFO 11132 [157647884847811714293289300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:47:38,479 INFO 9556 [157647885847811724293442799] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:47:38,479 WARN 9556 [157647885847811724293442799] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:47:38,478 INFO 11132 [157647885847811724293442799] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:47:48,479 INFO 9556 [157647886847911734293667299] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:47:48,479 WARN 9556 [157647886847911734293667299] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:47:48,479 INFO 11132 [157647886847911734293667299] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:47:58,479 INFO 9556 [157647887847811744293178300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:47:58,479 WARN 9556 [157647887847811744293178300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:47:58,478 INFO 11132 [157647887847811744293178300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:48:08,480 INFO 9556 [157647888847911754294232600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:48:08,480 WARN 9556 [157647888847911754294232600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:48:08,479 INFO 11132 [157647888847911754294232600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:48:18,480 INFO 9556 [157647889848011764294971300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:48:18,480 WARN 9556 [157647889848011764294971300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:48:18,480 INFO 11132 [157647889848011764294971300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:48:28,480 INFO 9556 [157647890848011774294773400] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:48:28,480 WARN 9556 [157647890848011774294773400] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:48:28,480 INFO 11132 [157647890848011774294773400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:48:38,481 INFO 9556 [157647891848011784295155000] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:48:38,481 WARN 9556 [157647891848011784295155000] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:48:38,480 INFO 11132 [157647891848011784295155000] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:48:48,482 INFO 9556 [157647892848111794296247499] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:48:48,482 WARN 9556 [157647892848111794296247499] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:48:48,481 INFO 11132 [157647892848111794296247499] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:48:58,483 INFO 9556 [157647893848211804297395100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:48:58,483 WARN 9556 [157647893848211804297395100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:48:58,482 INFO 11132 [157647893848211804297395100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:49:08,484 INFO 9556 [157647894848411814298804799] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:49:08,484 WARN 9556 [157647894848411814298804799] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:49:08,484 INFO 11132 [157647894848411814298804799] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:49:18,484 INFO 9556 [157647895848311824298230299] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:49:18,484 WARN 9556 [157647895848311824298230299] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:49:18,483 INFO 11132 [157647895848311824298230299] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:49:28,484 INFO 9556 [157647896848411834298953200] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:49:28,484 WARN 9556 [157647896848411834298953200] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:49:28,484 INFO 11132 [157647896848411834298953200] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:49:38,484 INFO 9148 [157647897848411844298971100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:49:38,484 WARN 9148 [157647897848411844298971100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:49:38,484 INFO 11132 [157647897848411844298971100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:49:48,483 INFO 9148 [157647898848411854298722200] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:49:48,483 WARN 9148 [157647898848411854298722200] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:49:48,484 INFO 11132 [157647898848411854298722200] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:49:58,484 INFO 9148 [157647899848411864298977200] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:49:58,484 WARN 9148 [157647899848411864298977200] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:49:58,484 INFO 11132 [157647899848411864298977200] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:50:08,484 INFO 9148 [157647900848411874299029700] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:50:08,484 WARN 9148 [157647900848411874299029700] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:50:08,484 INFO 11132 [157647900848411874299029700] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:50:18,485 INFO 9148 [157647901848511884300117900] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:50:18,485 WARN 9148 [157647901848511884300117900] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:50:18,485 INFO 11132 [157647901848511884300117900] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:50:28,487 INFO 9148 [157647902848611894301519499] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:50:28,487 WARN 9148 [157647902848611894301519499] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:50:28,486 INFO 11132 [157647902848611894301519499] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:50:38,487 INFO 9148 [157647903848611904301558899] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:50:38,487 WARN 9148 [157647903848611904301558899] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:50:38,486 INFO 11132 [157647903848611904301558899] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:50:48,488 INFO 9148 [157647904848611914301443800] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:50:48,488 WARN 9148 [157647904848611914301443800] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:50:48,486 INFO 11132 [157647904848611914301443800] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:50:58,488 INFO 9148 [157647905848611924301453799] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:50:58,488 WARN 9148 [157647905848611924301453799] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:50:58,486 INFO 11132 [157647905848611924301453799] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:51:08,488 INFO 9148 [157647906848711934301715700] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:51:08,488 WARN 9148 [157647906848711934301715700] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:51:08,487 INFO 11132 [157647906848711934301715700] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:51:18,488 INFO 9148 [157647907848711944301706799] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:51:18,488 WARN 9148 [157647907848711944301706799] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:51:18,487 INFO 11132 [157647907848711944301706799] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:51:28,488 INFO 9148 [157647908848711954302079000] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:51:28,488 WARN 9148 [157647908848711954302079000] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:51:28,487 INFO 11132 [157647908848711954302079000] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:51:38,487 INFO 9148 [157647909848711964302110900] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:51:38,487 WARN 9148 [157647909848711964302110900] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:51:38,487 INFO 11132 [157647909848711964302110900] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:51:48,488 INFO 9148 [157647910848811974302731599] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:51:48,488 WARN 9148 [157647910848811974302731599] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:51:48,488 INFO 11132 [157647910848811974302731599] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:51:49,435 INFO 10732 [157647910848811974302731599] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:51:49,435 WARN 10732 [157647910848811974302731599] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:51:58,487 INFO 10732 [157647911848711984302500599] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:51:58,487 WARN 10732 [157647911848711984302500599] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:51:58,487 INFO 11132 [157647911848711984302500599] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:52:08,487 INFO 11008 [157647912848811994302815600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:52:08,487 WARN 11008 [157647912848811994302815600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:52:08,488 INFO 11132 [157647912848811994302815600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:52:18,488 INFO 11008 [157647913848812004303155300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:52:18,488 WARN 11008 [157647913848812004303155300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:52:18,488 INFO 11132 [157647913848812004303155300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:52:28,489 INFO 11008 [157647914848912014304052000] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:52:28,489 WARN 11008 [157647914848912014304052000] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:52:28,489 INFO 11132 [157647914848912014304052000] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:52:38,489 INFO 11008 [157647915848912024304151200] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:52:38,489 WARN 11008 [157647915848912024304151200] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:52:38,489 INFO 11132 [157647915848912024304151200] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:52:48,491 INFO 7744 [157647916849012034304904300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:52:48,491 WARN 7744 [157647916849012034304904300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:52:48,490 INFO 11132 [157647916849012034304904300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:52:58,491 INFO 7744 [157647917849012044305320800] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:52:58,491 WARN 7744 [157647917849012044305320800] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:52:58,490 INFO 11132 [157647917849012044305320800] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:53:08,491 INFO 7744 [157647918849112054305989600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:53:08,491 WARN 7744 [157647918849112054305989600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:53:08,491 INFO 11132 [157647918849112054305989600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:53:18,491 INFO 11132 [157647919849112064305873300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:53:18,491 INFO 9656 [157647919849112064305873300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:53:18,491 WARN 9656 [157647919849112064305873300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:53:28,491 INFO 11132 [157647920849112074305929900] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:53:28,492 INFO 9656 [157647920849112074305929900] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:53:28,492 WARN 9656 [157647920849112074305929900] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:53:38,490 INFO 11132 [157647921849012084305416600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:53:38,491 INFO 9656 [157647921849012084305416600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:53:38,491 WARN 9656 [157647921849012084305416600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:53:48,491 INFO 11132 [157647922849112094305914300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:53:48,490 INFO 9656 [157647922849112094305914300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:53:48,490 WARN 9656 [157647922849112094305914300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:53:58,494 INFO 2340 [157647923849212104306985399] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:53:58,494 WARN 2340 [157647923849212104306985399] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:53:58,492 INFO 11132 [157647923849212104306985399] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:54:08,492 INFO 2340 [157647924849112114306619600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:54:08,492 WARN 2340 [157647924849112114306619600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:54:08,491 INFO 11132 [157647924849112114306619600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:54:18,493 INFO 10556 [157647925849212124306990600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:54:18,493 WARN 10556 [157647925849212124306990600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:54:18,492 INFO 11132 [157647925849212124306990600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:54:28,492 INFO 10556 [157647926849212134307294500] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:54:28,492 WARN 10556 [157647926849212134307294500] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:54:28,492 INFO 11132 [157647926849212134307294500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:54:38,494 INFO 10556 [157647927849312144308144300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:54:38,494 WARN 10556 [157647927849312144308144300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:54:38,493 INFO 11132 [157647927849312144308144300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:54:48,494 INFO 10556 [157647928849312154308632800] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:54:48,494 WARN 10556 [157647928849312154308632800] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:54:48,494 INFO 11132 [157647928849312154308632800] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:54:58,494 INFO 10556 [157647929849412164309352900] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:54:58,494 WARN 10556 [157647929849412164309352900] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:54:58,494 INFO 11132 [157647929849412164309352900] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:55:08,495 INFO 10556 [157647930849512174309917600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:55:08,495 WARN 10556 [157647930849512174309917600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:55:08,495 INFO 11132 [157647930849512174309917600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:55:18,497 INFO 10556 [157647931849512184310528200] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:55:18,497 WARN 10556 [157647931849512184310528200] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:55:18,495 INFO 11132 [157647931849512184310528200] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:55:28,497 INFO 10556 [157647932849612194311287800] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:55:28,497 WARN 10556 [157647932849612194311287800] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:55:28,496 INFO 11132 [157647932849612194311287800] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:55:38,497 INFO 10556 [157647933849712204311975100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:55:38,497 WARN 10556 [157647933849712204311975100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:55:38,497 INFO 11132 [157647933849712204311975100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:55:48,497 INFO 10556 [157647934849612214311392599] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:55:48,497 WARN 10556 [157647934849612214311392599] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:55:48,496 INFO 11132 [157647934849612214311392599] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:55:58,498 INFO 10556 [157647935849712224311881400] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:55:58,498 WARN 10556 [157647935849712224311881400] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:55:58,497 INFO 11132 [157647935849712224311881400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:56:08,499 INFO 10472 [157647936849712234312514600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:56:08,499 WARN 10472 [157647936849712234312514600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:56:08,497 INFO 11132 [157647936849712234312514600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:56:18,498 INFO 10472 [157647937849812244312936299] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:56:18,498 WARN 10472 [157647937849812244312936299] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:56:18,498 INFO 11132 [157647937849812244312936299] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:56:28,499 INFO 10472 [157647938849812254312857600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:56:28,499 WARN 10472 [157647938849812254312857600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:56:28,498 INFO 11132 [157647938849812254312857600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:56:38,500 INFO 10472 [157647939849912264313745599] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:56:38,500 WARN 10472 [157647939849912264313745599] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:56:38,499 INFO 11132 [157647939849912264313745599] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:56:48,500 INFO 10472 [157647940849912274314013500] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:56:48,500 WARN 10472 [157647940849912274314013500] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:56:48,499 INFO 11132 [157647940849912274314013500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:56:58,500 INFO 10472 [157647941849912284313799000] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:56:58,500 WARN 10472 [157647941849912284313799000] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:56:58,499 INFO 11132 [157647941849912284313799000] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:57:08,500 INFO 10472 [157647942849912294314564100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:57:08,500 WARN 10472 [157647942849912294314564100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:57:08,499 INFO 11132 [157647942849912294314564100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:57:18,501 INFO 10472 [157647943850012304315362000] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:57:18,501 WARN 10472 [157647943850012304315362000] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:57:18,500 INFO 11132 [157647943850012304315362000] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:57:28,501 INFO 10472 [157647944850012314315326900] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:57:28,501 WARN 10472 [157647944850012314315326900] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:57:28,500 INFO 11132 [157647944850012314315326900] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:57:38,501 INFO 10472 [157647945850112324316119100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:57:38,501 WARN 10472 [157647945850112324316119100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:57:38,501 INFO 11132 [157647945850112324316119100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:57:48,503 INFO 10472 [157647946850312334317792500] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:57:48,503 WARN 10472 [157647946850312334317792500] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:57:48,503 INFO 11132 [157647946850312334317792500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:57:58,504 INFO 10472 [157647947850312344318042400] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:57:58,504 WARN 10472 [157647947850312344318042400] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:57:58,503 INFO 11132 [157647947850312344318042400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:58:08,504 INFO 10472 [157647948850212354317550599] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:58:08,504 WARN 10472 [157647948850212354317550599] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:58:08,502 INFO 11132 [157647948850212354317550599] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:58:18,505 INFO 10472 [157647949850312364318618899] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:58:18,505 WARN 10472 [157647949850312364318618899] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:58:18,504 INFO 11132 [157647949850312364318618899] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:58:28,506 INFO 10472 [157647950850512374320085399] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:58:28,506 WARN 10472 [157647950850512374320085399] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:58:28,505 INFO 11132 [157647950850512374320085399] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:58:38,506 INFO 10472 [157647951850512384320403700] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:58:38,506 WARN 10472 [157647951850512384320403700] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:58:38,505 INFO 11132 [157647951850512384320403700] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:58:48,507 INFO 10472 [157647952850612394321671599] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:58:48,507 WARN 10472 [157647952850612394321671599] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:58:48,506 INFO 11132 [157647952850612394321671599] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:58:58,508 INFO 10472 [157647953850712404322295900] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:58:58,508 WARN 10472 [157647953850712404322295900] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:58:58,507 INFO 11132 [157647953850712404322295900] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:59:08,509 INFO 10472 [157647954850812414323326799] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:59:08,509 WARN 10472 [157647954850812414323326799] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:59:08,508 INFO 11132 [157647954850812414323326799] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:59:18,510 INFO 10472 [157647955850912424323796800] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:59:18,510 WARN 10472 [157647955850912424323796800] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:59:18,509 INFO 11132 [157647955850912424323796800] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:59:28,510 INFO 10472 [157647956850912434324349600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:59:28,510 WARN 10472 [157647956850912434324349600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:59:28,509 INFO 11132 [157647956850912434324349600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:59:38,510 INFO 10472 [157647957851012444324733900] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:59:38,510 WARN 10472 [157647957851012444324733900] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:59:38,510 INFO 11132 [157647957851012444324733900] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:59:48,510 INFO 10472 [157647958850912454324473600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:59:48,510 WARN 10472 [157647958850912454324473600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:59:48,509 INFO 11132 [157647958850912454324473600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 14:59:58,511 INFO 10472 [157647959851012464325257999] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 14:59:58,511 WARN 10472 [157647959851012464325257999] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 14:59:58,510 INFO 11132 [157647959851012464325257999] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:00:08,512 INFO 10472 [157647960851112474326075199] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:00:08,512 WARN 10472 [157647960851112474326075199] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:00:08,511 INFO 11132 [157647960851112474326075199] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:00:18,513 INFO 10472 [157647961851212484327589300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:00:18,513 WARN 10472 [157647961851212484327589300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:00:18,512 INFO 11132 [157647961851212484327589300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:00:28,513 INFO 10472 [157647962851212494327129800] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:00:28,513 WARN 10472 [157647962851212494327129800] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:00:28,512 INFO 11132 [157647962851212494327129800] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:00:38,512 INFO 10472 [157647963851212504327269100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:00:38,512 WARN 10472 [157647963851212504327269100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:00:38,512 INFO 11132 [157647963851212504327269100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:00:48,514 INFO 10472 [157647964851312514328498300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:00:48,514 WARN 10472 [157647964851312514328498300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:00:48,513 INFO 11132 [157647964851312514328498300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:00:58,514 INFO 10472 [157647965851312524328179999] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:00:58,514 WARN 10472 [157647965851312524328179999] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:00:58,513 INFO 11132 [157647965851312524328179999] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:01:08,514 INFO 10472 [157647966851412534328661399] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:01:08,514 WARN 10472 [157647966851412534328661399] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:01:08,514 INFO 11132 [157647966851412534328661399] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:01:18,514 INFO 11132 [157647967851412544328818700] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:01:18,515 INFO 10472 [157647967851412544328818700] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:01:18,515 WARN 10472 [157647967851412544328818700] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:01:28,513 INFO 11132 [157647968851312554329068899] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:01:28,515 INFO 10472 [157647968851312554329068899] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:01:28,515 WARN 10472 [157647968851312554329068899] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:01:38,514 INFO 11132 [157647969851412564330049000] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:01:38,515 INFO 7292 [157647969851412564330049000] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:01:38,515 WARN 7292 [157647969851412564330049000] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:01:48,515 INFO 11132 [157647970851512574330803100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:01:48,516 INFO 7464 [157647970851512574330803100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:01:48,516 WARN 7464 [157647970851512574330803100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:01:58,516 INFO 11132 [157647971851612584331639799] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:01:58,517 INFO 7464 [157647971851612584331639799] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:01:58,517 WARN 7464 [157647971851612584331639799] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:02:08,516 INFO 11132 [157647972851612594331524500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:02:08,517 INFO 7464 [157647972851612594331524500] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:02:08,517 WARN 7464 [157647972851612594331524500] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:02:18,516 INFO 11132 [157647973851612604331900100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:02:18,518 INFO 5780 [157647973851612604331900100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:02:18,518 WARN 5780 [157647973851612604331900100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:02:28,518 INFO 11132 [157647974851712614332692099] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:02:28,518 INFO 5780 [157647974851712614332692099] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:02:28,518 WARN 5780 [157647974851712614332692099] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:02:38,518 INFO 11132 [157647975851812624333369299] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:02:38,518 INFO 5780 [157647975851812624333369299] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:02:38,518 WARN 5780 [157647975851812624333369299] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:02:48,519 INFO 11132 [157647976851912634334434000] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:02:48,519 INFO 5780 [157647976851912634334434000] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:02:48,519 WARN 5780 [157647976851912634334434000] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:02:58,520 INFO 11132 [157647977852012644335076600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:02:58,520 INFO 5780 [157647977852012644335076600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:02:58,520 WARN 5780 [157647977852012644335076600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:03:08,521 INFO 11132 [157647978852112654335878099] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:03:08,520 INFO 5780 [157647978852112654335878099] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:03:08,520 WARN 5780 [157647978852112654335878099] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:03:18,521 INFO 11132 [157647979852112664336644400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:03:18,522 INFO 11184 [157647979852112664336644400] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:03:18,522 WARN 11184 [157647979852112664336644400] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:03:28,522 INFO 11132 [157647980852212674337436400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:03:28,523 INFO 11184 [157647980852212674337436400] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:03:28,523 WARN 11184 [157647980852212674337436400] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:03:38,523 INFO 11132 [157647981852312684337829500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:03:38,522 INFO 11184 [157647981852312684337829500] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:03:38,522 WARN 11184 [157647981852312684337829500] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:03:48,523 INFO 11132 [157647982852212694337650100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:03:48,523 INFO 11184 [157647982852212694337650100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:03:48,523 WARN 11184 [157647982852212694337650100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:03:58,523 INFO 11132 [157647983852312704338261400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:03:58,523 INFO 11184 [157647983852312704338261400] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:03:58,523 WARN 11184 [157647983852312704338261400] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:04:08,524 INFO 11132 [157647984852412714339197200] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:04:08,524 INFO 11184 [157647984852412714339197200] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:04:08,524 WARN 11184 [157647984852412714339197200] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:04:18,524 INFO 11132 [157647985852412724339094100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:04:18,524 INFO 11184 [157647985852412724339094100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:04:18,524 WARN 11184 [157647985852412724339094100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:04:28,525 INFO 11132 [157647986852512734340335500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:04:28,526 INFO 11184 [157647986852512734340335500] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:04:28,526 WARN 11184 [157647986852512734340335500] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:04:38,526 INFO 11132 [157647987852612744341440299] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:04:38,527 INFO 11184 [157647987852612744341440299] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:04:38,527 WARN 11184 [157647987852612744341440299] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:04:48,527 INFO 11132 [157647988852712754341937899] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:04:48,527 INFO 11184 [157647988852712754341937899] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:04:48,527 WARN 11184 [157647988852712754341937899] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:04:58,526 INFO 11132 [157647989852612764341523699] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:04:58,528 INFO 11184 [157647989852612764341523699] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:04:58,528 WARN 11184 [157647989852612764341523699] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:05:08,527 INFO 11132 [157647990852712774342208600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:05:08,528 INFO 11184 [157647990852712774342208600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:05:08,529 WARN 11184 [157647990852712774342208600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:05:18,528 INFO 11132 [157647991852812784343155100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:05:18,528 INFO 11184 [157647991852812784343155100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:05:18,528 WARN 11184 [157647991852812784343155100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:05:28,528 INFO 11132 [157647992852812794343191400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:05:28,528 INFO 11184 [157647992852812794343191400] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:05:28,528 WARN 11184 [157647992852812794343191400] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:05:38,529 INFO 11132 [157647993852912804344382300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:05:38,530 INFO 11184 [157647993852912804344382300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:05:38,530 WARN 11184 [157647993852912804344382300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:05:48,530 INFO 11132 [157647994853012814345413500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:05:48,532 INFO 11148 [157647994853012814345413500] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:05:48,532 WARN 11148 [157647994853012814345413500] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:05:58,531 INFO 11132 [157647995853112824345887599] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:05:58,532 INFO 6756 [157647995853112824345887599] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:05:58,532 WARN 6756 [157647995853112824345887599] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:06:08,531 INFO 11132 [157647996853112834346390200] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:06:08,532 INFO 6756 [157647996853112834346390200] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:06:08,532 WARN 6756 [157647996853112834346390200] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:06:18,532 INFO 11132 [157647997853212844347072200] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:06:18,533 INFO 6756 [157647997853212844347072200] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:06:18,533 WARN 6756 [157647997853212844347072200] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:06:28,533 INFO 11132 [157647998853312854347979400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:06:28,533 INFO 6756 [157647998853312854347979400] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:06:28,533 WARN 6756 [157647998853312854347979400] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:06:38,533 INFO 11132 [157647999853312864347892400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:06:38,533 INFO 6756 [157647999853312864347892400] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:06:38,533 WARN 6756 [157647999853312864347892400] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:06:48,533 INFO 11132 [157648000853312874348222800] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:06:48,534 INFO 6756 [157648000853312874348222800] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:06:48,534 WARN 6756 [157648000853312874348222800] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:06:58,534 INFO 11132 [157648001853412884348849000] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:06:58,535 INFO 6756 [157648001853412884348849000] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:06:58,535 WARN 6756 [157648001853412884348849000] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:07:08,534 INFO 11132 [157648002853412894349165800] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:07:08,535 INFO 6756 [157648002853412894349165800] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:07:08,535 WARN 6756 [157648002853412894349165800] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:07:18,536 INFO 11132 [157648003853612904350705100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:07:18,536 INFO 6756 [157648003853612904350705100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:07:18,536 WARN 6756 [157648003853612904350705100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:07:28,535 INFO 11132 [157648004853512914350291900] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:07:28,536 INFO 6756 [157648004853512914350291900] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:07:28,536 WARN 6756 [157648004853512914350291900] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:07:38,536 INFO 11132 [157648005853612924350949599] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:07:38,537 INFO 6756 [157648005853612924350949599] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:07:38,537 WARN 6756 [157648005853612924350949599] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:07:48,536 INFO 11132 [157648006853612934350637200] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:07:48,537 INFO 6756 [157648006853612934350637200] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:07:48,537 WARN 6756 [157648006853612934350637200] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:07:58,536 INFO 11132 [157648007853612944350906099] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:07:58,536 INFO 5408 [157648007853612944350906099] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:07:58,536 WARN 5408 [157648007853612944350906099] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:08:08,536 INFO 11132 [157648008853612954350917799] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:08:08,536 INFO 5408 [157648008853612954350917799] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:08:08,536 WARN 5408 [157648008853612954350917799] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:08:18,536 INFO 11132 [157648009853612964351033100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:08:18,536 INFO 5408 [157648009853612964351033100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:08:18,536 WARN 5408 [157648009853612964351033100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:08:28,537 INFO 11132 [157648010853712974351824899] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:08:28,537 INFO 5408 [157648010853712974351824899] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:08:28,537 WARN 5408 [157648010853712974351824899] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:08:38,536 INFO 11132 [157648011853612984351192900] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:08:38,538 INFO 9464 [157648011853612984351192900] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:08:38,538 WARN 9464 [157648011853612984351192900] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:08:48,536 INFO 11132 [157648012853612994351440900] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:08:48,537 INFO 9464 [157648012853612994351440900] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:08:48,537 WARN 9464 [157648012853612994351440900] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:08:58,536 INFO 11132 [157648013853613004351291100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:08:58,536 INFO 9464 [157648013853613004351291100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:08:58,536 WARN 9464 [157648013853613004351291100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:08:59,734 INFO 5644 [157648013853613004351291100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:08:59,734 WARN 5644 [157648013853613004351291100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:09:08,537 INFO 11132 [157648014853713014352444900] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:09:08,537 INFO 5644 [157648014853713014352444900] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:09:08,537 WARN 5644 [157648014853713014352444900] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:09:18,538 INFO 11132 [157648015853813024352780199] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:09:18,538 INFO 5644 [157648015853813024352780199] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:09:18,538 WARN 5644 [157648015853813024352780199] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:09:28,538 INFO 11132 [157648016853813034352856599] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:09:28,538 INFO 5644 [157648016853813034352856599] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:09:28,538 WARN 5644 [157648016853813034352856599] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:09:38,538 INFO 11132 [157648017853813044353537600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:09:38,538 INFO 5644 [157648017853813044353537600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:09:38,538 WARN 5644 [157648017853813044353537600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:09:48,539 INFO 11132 [157648018853913054354107000] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:09:48,538 INFO 5644 [157648018853913054354107000] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:09:48,539 WARN 5644 [157648018853913054354107000] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:09:58,539 INFO 11132 [157648019853913064354365600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:09:58,539 INFO 5644 [157648019853913064354365600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:09:58,539 WARN 5644 [157648019853913064354365600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:10:08,540 INFO 11132 [157648020854013074355039999] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:10:08,541 INFO 5644 [157648020854013074355039999] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:10:08,541 WARN 5644 [157648020854013074355039999] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:10:18,539 INFO 11132 [157648021853913084354365399] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:10:18,539 INFO 5644 [157648021853913084354365399] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:10:18,539 WARN 5644 [157648021853913084354365399] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:10:28,539 INFO 11132 [157648022853913094354261300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:10:28,540 INFO 5644 [157648022853913094354261300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:10:28,540 WARN 5644 [157648022853913094354261300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:10:38,540 INFO 11132 [157648023854013104354993100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:10:38,541 INFO 5644 [157648023854013104354993100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:10:38,541 WARN 5644 [157648023854013104354993100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:10:48,540 INFO 11132 [157648024854013114355065200] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:10:48,540 INFO 5644 [157648024854013114355065200] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:10:48,540 WARN 5644 [157648024854013114355065200] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:10:58,541 INFO 11132 [157648025854113124356548599] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:10:58,542 INFO 5644 [157648025854113124356548599] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:10:58,542 WARN 5644 [157648025854113124356548599] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:11:08,542 INFO 11132 [157648026854213134357424200] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:11:08,543 INFO 5644 [157648026854213134357424200] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:11:08,543 WARN 5644 [157648026854213134357424200] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:11:18,543 INFO 11132 [157648027854313144357912100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:11:18,543 INFO 5644 [157648027854313144357912100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:11:18,543 WARN 5644 [157648027854313144357912100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:11:28,542 INFO 11132 [157648028854213154357172299] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:11:28,542 INFO 5644 [157648028854213154357172299] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:11:28,542 WARN 5644 [157648028854213154357172299] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:11:38,543 INFO 11132 [157648029854313164357993599] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:11:38,544 INFO 5644 [157648029854313164357993599] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:11:38,544 WARN 5644 [157648029854313164357993599] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:11:48,543 INFO 11132 [157648030854313174358260100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:11:48,544 INFO 5644 [157648030854313174358260100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:11:48,544 WARN 5644 [157648030854313174358260100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:11:58,545 INFO 11132 [157648031854413184359615700] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:11:58,545 INFO 5644 [157648031854413184359615700] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:11:58,545 WARN 5644 [157648031854413184359615700] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:12:08,545 INFO 11132 [157648032854513194360223900] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:12:08,546 INFO 5644 [157648032854513194360223900] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:12:08,546 WARN 5644 [157648032854513194360223900] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:12:18,547 INFO 11132 [157648033854713204361830300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:12:18,547 INFO 5644 [157648033854713204361830300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:12:18,547 WARN 5644 [157648033854713204361830300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:12:28,547 INFO 11132 [157648034854713214361657599] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:12:28,547 INFO 5644 [157648034854713214361657599] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:12:28,547 WARN 5644 [157648034854713214361657599] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:12:38,546 INFO 11132 [157648035854613224361511399] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:12:38,547 INFO 5644 [157648035854613224361511399] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:12:38,547 WARN 5644 [157648035854613224361511399] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:12:48,548 INFO 11132 [157648036854813234362733099] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:12:48,548 INFO 5644 [157648036854813234362733099] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:12:48,548 WARN 5644 [157648036854813234362733099] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:12:58,548 INFO 11132 [157648037854813244363042000] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:12:58,548 INFO 5644 [157648037854813244363042000] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:12:58,548 WARN 5644 [157648037854813244363042000] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:13:08,548 INFO 11132 [157648038854813254363487400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:13:08,549 INFO 5644 [157648038854813254363487400] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:13:08,549 WARN 5644 [157648038854813254363487400] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:13:18,548 INFO 11132 [157648039854813264363525600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:13:18,549 INFO 5644 [157648039854813264363525600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:13:18,549 WARN 5644 [157648039854813264363525600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:13:28,549 INFO 11132 [157648040854913274364043900] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:13:28,549 INFO 2204 [157648040854913274364043900] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:13:28,549 WARN 2204 [157648040854913274364043900] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:13:38,550 INFO 11132 [157648041855013284365358899] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:13:38,550 INFO 2204 [157648041855013284365358899] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:13:38,550 WARN 2204 [157648041855013284365358899] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:13:48,550 INFO 11132 [157648042855013294365102000] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:13:48,550 INFO 2204 [157648042855013294365102000] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:13:48,550 WARN 2204 [157648042855013294365102000] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:13:58,551 INFO 11132 [157648043855113304366011900] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:13:58,551 INFO 2204 [157648043855113304366011900] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:13:58,551 WARN 2204 [157648043855113304366011900] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:14:08,551 INFO 11132 [157648044855113314366018400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:14:08,552 INFO 2204 [157648044855113314366018400] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:14:08,552 WARN 2204 [157648044855113314366018400] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:14:18,551 INFO 11132 [157648045855113324366593900] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:14:18,552 INFO 2204 [157648045855113324366593900] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:14:18,552 WARN 2204 [157648045855113324366593900] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:14:28,551 INFO 11132 [157648046855113334366260300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:14:28,552 INFO 2204 [157648046855113334366260300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:14:28,552 WARN 2204 [157648046855113334366260300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:14:38,553 INFO 7216 [157648047855113344366658400] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:14:38,553 WARN 7216 [157648047855113344366658400] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:14:38,552 INFO 11132 [157648047855113344366658400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:14:48,553 INFO 7216 [157648048855313354367778599] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:14:48,553 WARN 7216 [157648048855313354367778599] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:14:48,553 INFO 11132 [157648048855313354367778599] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:14:58,553 INFO 11132 [157648049855313364368271800] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:14:58,553 INFO 6392 [157648049855313364368271800] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:14:58,553 WARN 6392 [157648049855313364368271800] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:15:08,553 INFO 11132 [157648050855313374368641399] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:15:08,553 INFO 6392 [157648050855313374368641399] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:15:08,553 WARN 6392 [157648050855313374368641399] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:15:18,553 INFO 11132 [157648051855313384368577100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:15:18,554 INFO 6392 [157648051855313384368577100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:15:18,554 WARN 6392 [157648051855313384368577100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:15:28,554 INFO 11132 [157648052855413394369146300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:15:28,555 INFO 6392 [157648052855413394369146300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:15:28,555 WARN 6392 [157648052855413394369146300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:15:38,555 INFO 11132 [157648053855513404370176299] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:15:38,556 INFO 6392 [157648053855513404370176299] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:15:38,556 WARN 6392 [157648053855513404370176299] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:15:48,556 INFO 11132 [157648054855613414371105400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:15:48,557 INFO 6392 [157648054855613414371105400] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:15:48,557 WARN 6392 [157648054855613414371105400] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:15:58,556 INFO 11132 [157648055855613424371188899] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:15:58,557 INFO 6392 [157648055855613424371188899] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:15:58,557 WARN 6392 [157648055855613424371188899] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:16:08,557 INFO 11132 [157648056855713434371814100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:16:08,557 INFO 6392 [157648056855713434371814100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:16:08,557 WARN 6392 [157648056855713434371814100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:16:18,557 INFO 11132 [157648057855713444372119099] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:16:18,558 INFO 6392 [157648057855713444372119099] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:16:18,558 WARN 6392 [157648057855713444372119099] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:16:28,557 INFO 11132 [157648058855713454372558300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:16:28,559 INFO 6392 [157648058855713454372558300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:16:28,559 WARN 6392 [157648058855713454372558300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:16:38,558 INFO 11132 [157648059855813464373242099] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:16:38,559 INFO 6392 [157648059855813464373242099] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:16:38,559 WARN 6392 [157648059855813464373242099] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:16:48,558 INFO 11132 [157648060855813474373548900] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:16:48,560 INFO 6392 [157648060855813474373548900] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:16:48,560 WARN 6392 [157648060855813474373548900] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:16:58,559 INFO 11132 [157648061855913484373815800] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:16:58,559 INFO 6392 [157648061855913484373815800] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:16:58,559 WARN 6392 [157648061855913484373815800] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:17:08,560 INFO 4632 [157648062855913494373699300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:17:08,560 WARN 4632 [157648062855913494373699300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:17:08,559 INFO 11132 [157648062855913494373699300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:17:18,560 INFO 4632 [157648063855913504374505799] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:17:18,560 WARN 4632 [157648063855913504374505799] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:17:18,559 INFO 11132 [157648063855913504374505799] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:17:28,560 INFO 4632 [157648064856013514374776699] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:17:28,560 WARN 4632 [157648064856013514374776699] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:17:28,560 INFO 11132 [157648064856013514374776699] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:17:38,561 INFO 4632 [157648065856013524375269799] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:17:38,561 WARN 4632 [157648065856013524375269799] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:17:38,560 INFO 11132 [157648065856013524375269799] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:17:48,561 INFO 4632 [157648066856113534375837900] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:17:48,561 WARN 4632 [157648066856113534375837900] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:17:48,561 INFO 11132 [157648066856113534375837900] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:17:49,449 INFO 11140 [157648066856113534375837900] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:17:49,449 WARN 11140 [157648066856113534375837900] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:17:58,561 INFO 11132 [157648067856113544376389500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:17:58,562 INFO 10792 [157648067856113544376389500] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:17:58,562 WARN 10792 [157648067856113544376389500] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:18:08,562 INFO 11132 [157648068856213554377356800] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:18:08,563 INFO 10792 [157648068856213554377356800] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:18:08,563 WARN 10792 [157648068856213554377356800] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:18:18,563 INFO 11132 [157648069856313564377710800] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:18:18,564 INFO 10792 [157648069856313564377710800] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:18:18,564 WARN 10792 [157648069856313564377710800] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:18:28,564 INFO 11132 [157648070856413574378757600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:18:28,565 INFO 10792 [157648070856413574378757600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:18:28,565 WARN 10792 [157648070856413574378757600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:18:38,564 INFO 11132 [157648071856413584378851700] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:18:38,564 INFO 10792 [157648071856413584378851700] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:18:38,564 WARN 10792 [157648071856413584378851700] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:18:48,565 INFO 7740 [157648072856413594379339300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:18:48,565 WARN 7740 [157648072856413594379339300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:18:48,564 INFO 11132 [157648072856413594379339300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:18:58,565 INFO 7740 [157648073856513604380501099] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:18:58,566 WARN 7740 [157648073856513604380501099] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:18:58,565 INFO 11132 [157648073856513604380501099] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:19:08,566 INFO 7740 [157648074856613614380771100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:19:08,566 WARN 7740 [157648074856613614380771100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:19:08,566 INFO 11132 [157648074856613614380771100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:19:18,567 INFO 7740 [157648075856713624381736399] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:19:18,567 WARN 7740 [157648075856713624381736399] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:19:18,567 INFO 11132 [157648075856713624381736399] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:19:28,568 INFO 7740 [157648076856713634382254500] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:19:28,568 WARN 7740 [157648076856713634382254500] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:19:28,567 INFO 11132 [157648076856713634382254500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:19:38,568 INFO 7740 [157648077856713644382676899] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:19:38,568 WARN 7740 [157648077856713644382676899] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:19:38,568 INFO 11132 [157648077856713644382676899] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:19:48,568 INFO 7740 [157648078856813654382765400] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:19:48,568 WARN 7740 [157648078856813654382765400] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:19:48,568 INFO 11132 [157648078856813654382765400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:19:58,569 INFO 7740 [157648079856713664382603999] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:19:58,569 WARN 7740 [157648079856713664382603999] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:19:58,567 INFO 11132 [157648079856713664382603999] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:20:08,570 INFO 7740 [157648080856813674383545199] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:20:08,570 WARN 7740 [157648080856813674383545199] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:20:08,568 INFO 11132 [157648080856813674383545199] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:20:18,569 INFO 7740 [157648081856913684384017499] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:20:18,569 WARN 7740 [157648081856913684384017499] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:20:18,569 INFO 11132 [157648081856913684384017499] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:20:28,570 INFO 7740 [157648082856913694384237700] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:20:28,570 WARN 7740 [157648082856913694384237700] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:20:28,569 INFO 11132 [157648082856913694384237700] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:20:38,571 INFO 7740 [157648083857113704385800500] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:20:38,571 WARN 7740 [157648083857113704385800500] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:20:38,571 INFO 11132 [157648083857113704385800500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:20:48,571 INFO 7740 [157648084857113714385828300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:20:48,571 WARN 7740 [157648084857113714385828300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:20:48,571 INFO 11132 [157648084857113714385828300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:20:58,571 INFO 7740 [157648085857113724386019700] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:20:58,571 WARN 7740 [157648085857113724386019700] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:20:58,571 INFO 11132 [157648085857113724386019700] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:21:08,572 INFO 7740 [157648086857213734386712300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:21:08,572 WARN 7740 [157648086857213734386712300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:21:08,572 INFO 11132 [157648086857213734386712300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:21:18,572 INFO 7740 [157648087857113744386380600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:21:18,572 WARN 7740 [157648087857113744386380600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:21:18,571 INFO 11132 [157648087857113744386380600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:21:28,572 INFO 7740 [157648088857213754387293099] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:21:28,572 WARN 7740 [157648088857213754387293099] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:21:28,572 INFO 11132 [157648088857213754387293099] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:21:38,574 INFO 7740 [157648089857313764388172300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:21:38,574 WARN 7740 [157648089857313764388172300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:21:38,573 INFO 11132 [157648089857313764388172300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:21:48,574 INFO 7740 [157648090857413774388704600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:21:48,574 WARN 7740 [157648090857413774388704600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:21:48,574 INFO 11132 [157648090857413774388704600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:21:58,574 INFO 7740 [157648091857413784388888500] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:21:58,574 WARN 7740 [157648091857413784388888500] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:21:58,574 INFO 11132 [157648091857413784388888500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:22:08,575 INFO 7740 [157648092857413794389460999] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:22:08,575 WARN 7740 [157648092857413794389460999] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:22:08,574 INFO 11132 [157648092857413794389460999] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:22:18,576 INFO 7740 [157648093857513804390494399] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:22:18,576 WARN 7740 [157648093857513804390494399] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:22:18,575 INFO 11132 [157648093857513804390494399] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:22:28,576 INFO 7740 [157648094857613814390757300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:22:28,576 WARN 7740 [157648094857613814390757300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:22:28,576 INFO 11132 [157648094857613814390757300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:22:38,576 INFO 7740 [157648095857613824390944100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:22:38,576 WARN 7740 [157648095857613824390944100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:22:38,576 INFO 11132 [157648095857613824390944100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:22:48,576 INFO 7740 [157648096857613834390965100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:22:48,576 WARN 7740 [157648096857613834390965100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:22:48,576 INFO 11132 [157648096857613834390965100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:22:58,576 INFO 7740 [157648097857513844390548500] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:22:58,576 WARN 7740 [157648097857513844390548500] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:22:58,575 INFO 11132 [157648097857513844390548500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:23:08,577 INFO 7740 [157648098857713854391701200] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:23:08,577 WARN 7740 [157648098857713854391701200] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:23:08,577 INFO 11132 [157648098857713854391701200] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:23:18,578 INFO 7740 [157648099857713864392457799] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:23:18,578 WARN 7740 [157648099857713864392457799] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:23:18,577 INFO 11132 [157648099857713864392457799] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:23:28,578 INFO 7740 [157648100857713874392457600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:23:28,578 WARN 7740 [157648100857713874392457600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:23:28,577 INFO 11132 [157648100857713874392457600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:23:38,579 INFO 7740 [157648101857813884393452000] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:23:38,579 WARN 7740 [157648101857813884393452000] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:23:38,578 INFO 11132 [157648101857813884393452000] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:23:48,579 INFO 7740 [157648102857913894394081800] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:23:48,579 WARN 7740 [157648102857913894394081800] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:23:48,579 INFO 11132 [157648102857913894394081800] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:23:58,580 INFO 7740 [157648103857913904394346100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:23:58,580 WARN 7740 [157648103857913904394346100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:23:58,579 INFO 11132 [157648103857913904394346100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:24:08,580 INFO 7740 [157648104858013914394764300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:24:08,580 WARN 7740 [157648104858013914394764300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:24:08,580 INFO 11132 [157648104858013914394764300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:24:18,580 INFO 7740 [157648105857913924394461400] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:24:18,580 WARN 7740 [157648105857913924394461400] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:24:18,579 INFO 11132 [157648105857913924394461400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:24:28,580 INFO 7740 [157648106858013934395177100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:24:28,580 WARN 7740 [157648106858013934395177100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:24:28,580 INFO 11132 [157648106858013934395177100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:24:38,582 INFO 7740 [157648107858113944396584900] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:24:38,582 WARN 7740 [157648107858113944396584900] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:24:38,581 INFO 11132 [157648107858113944396584900] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:24:48,582 INFO 7740 [157648108858213954396971799] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:24:48,582 WARN 7740 [157648108858213954396971799] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:24:48,582 INFO 11132 [157648108858213954396971799] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:24:58,582 INFO 7740 [157648109858113964396609500] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:24:58,582 WARN 7740 [157648109858113964396609500] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:24:58,582 INFO 11132 [157648109858113964396609500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:25:08,582 INFO 7740 [157648110858213974396716600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:25:08,582 WARN 7740 [157648110858213974396716600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:25:08,582 INFO 11132 [157648110858213974396716600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:25:18,583 INFO 7740 [157648111858213984396904199] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:25:18,583 WARN 7740 [157648111858213984396904199] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:25:18,582 INFO 11132 [157648111858213984396904199] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:25:28,582 INFO 7740 [157648112858213994396946199] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:25:28,582 WARN 7740 [157648112858213994396946199] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:25:28,582 INFO 11132 [157648112858213994396946199] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:25:38,583 INFO 7740 [157648113858214004397182600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:25:38,583 WARN 7740 [157648113858214004397182600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:25:38,582 INFO 11132 [157648113858214004397182600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:25:48,585 INFO 7740 [157648114858314014398535600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:25:48,585 WARN 7740 [157648114858314014398535600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:25:48,583 INFO 11132 [157648114858314014398535600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:25:58,584 INFO 7740 [157648115858414024399029600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:25:58,584 WARN 7740 [157648115858414024399029600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:25:58,584 INFO 11132 [157648115858414024399029600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:26:08,585 INFO 7740 [157648116858414034398687699] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:26:08,585 WARN 7740 [157648116858414034398687699] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:26:08,584 INFO 11132 [157648116858414034398687699] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:26:18,584 INFO 7740 [157648117858414044398983399] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:26:18,584 WARN 7740 [157648117858414044398983399] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:26:18,584 INFO 11132 [157648117858414044398983399] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:26:28,584 INFO 7740 [157648118858414054398857400] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:26:28,584 WARN 7740 [157648118858414054398857400] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:26:28,584 INFO 11132 [157648118858414054398857400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:26:38,584 INFO 7740 [157648119858414064398841799] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:26:38,584 WARN 7740 [157648119858414064398841799] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:26:38,584 INFO 11132 [157648119858414064398841799] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:26:48,584 INFO 7740 [157648120858314074398600200] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:26:48,584 WARN 7740 [157648120858314074398600200] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:26:48,583 INFO 11132 [157648120858314074398600200] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:26:58,585 INFO 7740 [157648121858514084399699000] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:26:58,585 WARN 7740 [157648121858514084399699000] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:26:58,585 INFO 11132 [157648121858514084399699000] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:27:08,585 INFO 7740 [157648122858414094399272300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:27:08,585 WARN 7740 [157648122858414094399272300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:27:08,584 INFO 11132 [157648122858414094399272300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:27:18,586 INFO 7740 [157648123858514104400387700] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:27:18,586 WARN 7740 [157648123858514104400387700] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:27:18,585 INFO 11132 [157648123858514104400387700] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:27:28,587 INFO 7740 [157648124858714114401809500] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:27:28,587 WARN 7740 [157648124858714114401809500] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:27:28,587 INFO 11132 [157648124858714114401809500] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:27:38,588 INFO 7740 [157648125858714124402684900] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:27:38,588 WARN 7740 [157648125858714124402684900] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:27:38,588 INFO 11132 [157648125858714124402684900] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:27:48,589 INFO 7740 [157648126858714134402619499] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:27:48,589 WARN 7740 [157648126858714134402619499] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:27:48,588 INFO 11132 [157648126858714134402619499] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:27:58,589 INFO 7740 [157648127858814144403335399] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:27:58,589 WARN 7740 [157648127858814144403335399] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:27:58,588 INFO 11132 [157648127858814144403335399] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:28:08,590 INFO 7740 [157648128858914154404639400] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:28:08,590 WARN 7740 [157648128858914154404639400] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:28:08,589 INFO 11132 [157648128858914154404639400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:28:18,590 INFO 7740 [157648129859014164404902600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:28:18,590 WARN 7740 [157648129859014164404902600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:28:18,590 INFO 11132 [157648129859014164404902600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:28:28,591 INFO 7740 [157648130858914174404652300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:28:28,591 WARN 7740 [157648130858914174404652300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:28:28,590 INFO 11132 [157648130858914174404652300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:28:38,591 INFO 7740 [157648131859014184405600999] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:28:38,591 WARN 7740 [157648131859014184405600999] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:28:38,590 INFO 11132 [157648131859014184405600999] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:28:48,591 INFO 7740 [157648132859114194406151899] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:28:48,591 WARN 7740 [157648132859114194406151899] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:28:48,591 INFO 11132 [157648132859114194406151899] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:28:58,593 INFO 7740 [157648133859314204407832400] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:28:58,593 WARN 7740 [157648133859314204407832400] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:28:58,593 INFO 11132 [157648133859314204407832400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:29:08,593 INFO 7740 [157648134859314214408080000] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:29:08,594 WARN 7740 [157648134859314214408080000] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:29:08,593 INFO 11132 [157648134859314214408080000] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:29:18,595 INFO 7740 [157648135859414224408745100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:29:18,595 WARN 7740 [157648135859414224408745100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:29:18,594 INFO 11132 [157648135859414224408745100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:29:28,595 INFO 7740 [157648136859414234409011099] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:29:28,595 WARN 7740 [157648136859414234409011099] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:29:28,594 INFO 11132 [157648136859414234409011099] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:29:38,595 INFO 7740 [157648137859414244408999000] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:29:38,595 WARN 7740 [157648137859414244408999000] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:29:38,594 INFO 11132 [157648137859414244408999000] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:29:48,595 INFO 7740 [157648138859414254409312799] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:29:48,595 WARN 7740 [157648138859414254409312799] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:29:48,594 INFO 11132 [157648138859414254409312799] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:29:58,595 INFO 7740 [157648139859414264409578899] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:29:58,595 WARN 7740 [157648139859414264409578899] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:29:58,594 INFO 11132 [157648139859414264409578899] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:30:08,596 INFO 7740 [157648140859514274409949199] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:30:08,596 WARN 7740 [157648140859514274409949199] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:30:08,595 INFO 11132 [157648140859514274409949199] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:30:18,595 INFO 7740 [157648141859414284409255800] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:30:18,595 WARN 7740 [157648141859414284409255800] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:30:18,594 INFO 11132 [157648141859414284409255800] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:30:28,596 INFO 7740 [157648142859514294410132000] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:30:28,596 WARN 7740 [157648142859514294410132000] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:30:28,595 INFO 11132 [157648142859514294410132000] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:30:38,597 INFO 7740 [157648143859614304411520099] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:30:38,598 WARN 7740 [157648143859614304411520099] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:30:38,596 INFO 11132 [157648143859614304411520099] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:30:48,597 INFO 7740 [157648144859714314412553000] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:30:48,597 WARN 7740 [157648144859714314412553000] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:30:48,597 INFO 11132 [157648144859714314412553000] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:30:58,598 INFO 7740 [157648145859714324412486100] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:30:58,598 WARN 7740 [157648145859714324412486100] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:30:58,597 INFO 11132 [157648145859714324412486100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:31:08,597 INFO 7740 [157648146859714334412486399] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:31:08,597 WARN 7740 [157648146859714334412486399] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:31:08,597 INFO 11132 [157648146859714334412486399] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:31:18,598 INFO 7740 [157648147859814344413339800] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:31:18,598 WARN 7740 [157648147859814344413339800] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:31:18,598 INFO 11132 [157648147859814344413339800] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:31:28,599 INFO 7740 [157648148859914354414038400] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:31:28,599 WARN 7740 [157648148859914354414038400] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:31:28,599 INFO 11132 [157648148859914354414038400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:31:38,601 INFO 7740 [157648149860014364415610200] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:31:38,601 WARN 7740 [157648149860014364415610200] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:31:38,601 INFO 11132 [157648149860014364415610200] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:31:48,602 INFO 7740 [157648150860014374415612300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:31:48,602 WARN 7740 [157648150860014374415612300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:31:48,601 INFO 11132 [157648150860014374415612300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:31:58,602 INFO 7740 [157648151860014384415612199] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:31:58,602 WARN 7740 [157648151860014384415612199] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:31:58,601 INFO 11132 [157648151860014384415612199] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:32:08,601 INFO 7740 [157648152860014394415249099] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:32:08,601 WARN 7740 [157648152860014394415249099] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:32:08,600 INFO 11132 [157648152860014394415249099] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:32:18,601 INFO 4612 [157648153860114404416267300] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:32:18,601 WARN 4612 [157648153860114404416267300] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:32:18,601 INFO 11132 [157648153860114404416267300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:32:28,603 INFO 4612 [157648154860214414417143400] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:32:28,603 WARN 4612 [157648154860214414417143400] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:32:28,602 INFO 11132 [157648154860214414417143400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:32:38,602 INFO 4612 [157648155860214424417339599] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:32:38,602 WARN 4612 [157648155860214424417339599] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:32:38,602 INFO 11132 [157648155860214424417339599] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:32:48,603 INFO 4612 [157648156860214434417685999] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:32:48,603 WARN 4612 [157648156860214434417685999] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:32:48,603 INFO 11132 [157648156860214434417685999] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:32:58,602 INFO 4612 [157648157860314444417800600] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:32:58,602 WARN 4612 [157648157860314444417800600] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:32:58,603 INFO 11132 [157648157860314444417800600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:33:08,603 INFO 4612 [157648158860314454417988199] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:33:08,603 WARN 4612 [157648158860314454417988199] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:33:08,603 INFO 11132 [157648158860314454417988199] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:33:18,602 INFO 4612 [157648159860314464417717299] E:\gitfile\egg-sample\app\schedule\update_cache.js task received by app
+2019-12-16 15:33:18,602 WARN 4612 [157648159860314464417717299] E:\gitfile\egg-sample\app\schedule\update_cache.js unknown task
+2019-12-16 15:33:18,603 INFO 11132 [157648159860314464417717299] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:33:28,604 INFO 11132 [157648160860414474418928000] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:33:38,604 INFO 11132 [157648161860414484419238999] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:33:48,605 INFO 11132 [157648162860514494420591200] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:33:58,606 INFO 11132 [157648163860614504421010700] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:34:08,606 INFO 11132 [157648164860614514420679100] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:34:18,606 INFO 11132 [157648165860614524421159099] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:34:28,607 INFO 11132 [157648166860714534421960099] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:34:38,607 INFO 11132 [157648167860614544421511999] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:34:48,607 INFO 11132 [157648168860714554422545300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:34:58,608 INFO 11132 [157648169860814564423301400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:35:08,610 INFO 11132 [157648170861014574424951300] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:35:18,609 INFO 11132 [157648171860914584424380400] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:35:28,610 INFO 11132 [157648172861014594424958099] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:35:38,610 INFO 11132 [157648173861014604424919899] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:35:48,610 INFO 11132 [157648174861014614425478600] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:35:58,611 INFO 11132 [157648175861114624426057800] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:36:08,613 INFO 11132 [157648176861314634427773399] E:\gitfile\egg-sample\app\schedule\update_cache.js triggered, send all by agent
+2019-12-16 15:53:33,330 INFO 1932 [Timer] E:\gitfile\egg-sample\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute at 2019-12-17 00:00:00.000
+2019-12-16 15:53:33,330 INFO 1932 [Timer] E:\gitfile\egg-sample\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2019-12-17 00:00:01.000
+2019-12-16 19:32:38,261 INFO 12076 [Timer] E:\gitfile\egg-sample\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute at 2019-12-17 00:00:00.000
+2019-12-16 19:32:38,261 INFO 12076 [Timer] E:\gitfile\egg-sample\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2019-12-17 00:00:01.000
+2019-12-16 19:40:05,792 INFO 11528 [Timer] E:\gitfile\egg-sample\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute at 2019-12-17 00:00:00.000
+2019-12-16 19:40:05,793 INFO 11528 [Timer] E:\gitfile\egg-sample\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2019-12-17 00:00:01.000

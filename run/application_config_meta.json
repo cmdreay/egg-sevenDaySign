@@ -15,34 +15,27 @@
     "app": "E:\\gitfile\\egg-sample\\node_modules\\egg-mongoose\\config\\config.default.js",
     "agent": "E:\\gitfile\\egg-sample\\node_modules\\egg-mongoose\\config\\config.default.js"
   },
-  "jwt": {
-    "secret": "E:\\gitfile\\egg-sample\\config\\config.default.js",
-    "enable": "E:\\gitfile\\egg-sample\\node_modules\\egg-jwt\\config\\config.default.js"
-  },
-  "session": {
-    "maxAge": "E:\\gitfile\\egg-sample\\node_modules\\egg-session\\config\\config.default.js",
-    "key": "E:\\gitfile\\egg-sample\\node_modules\\egg-session\\config\\config.default.js",
-    "httpOnly": "E:\\gitfile\\egg-sample\\node_modules\\egg-session\\config\\config.default.js",
-    "encrypt": "E:\\gitfile\\egg-sample\\node_modules\\egg-session\\config\\config.default.js"
+  "redis": {
+    "client": {
+      "port": "E:\\gitfile\\egg-sample\\config\\config.default.js",
+      "host": "E:\\gitfile\\egg-sample\\config\\config.default.js",
+      "password": "E:\\gitfile\\egg-sample\\config\\config.default.js",
+      "db": "E:\\gitfile\\egg-sample\\config\\config.default.js"
+    },
+    "default": "E:\\gitfile\\egg-sample\\node_modules\\egg-redis\\config\\config.default.js",
+    "app": "E:\\gitfile\\egg-sample\\node_modules\\egg-redis\\config\\config.default.js",
+    "agent": "E:\\gitfile\\egg-sample\\node_modules\\egg-redis\\config\\config.default.js",
+    "supportTimeCommand": "E:\\gitfile\\egg-sample\\node_modules\\egg-redis\\config\\config.default.js"
   },
   "security": {
-    "domainWhiteList": "E:\\gitfile\\egg-sample\\node_modules\\egg-security\\config\\config.default.js",
-    "protocolWhiteList": "E:\\gitfile\\egg-sample\\node_modules\\egg-security\\config\\config.default.js",
-    "defaultMiddleware": "E:\\gitfile\\egg-sample\\node_modules\\egg-security\\config\\config.default.js",
-    "csrf": {
-      "enable": "E:\\gitfile\\egg-sample\\node_modules\\egg-security\\config\\config.default.js",
-      "useSession": "E:\\gitfile\\egg-sample\\node_modules\\egg-security\\config\\config.default.js",
-      "ignoreJSON": "E:\\gitfile\\egg-sample\\node_modules\\egg-security\\config\\config.default.js",
-      "cookieName": "E:\\gitfile\\egg-sample\\node_modules\\egg-security\\config\\config.default.js",
-      "sessionName": "E:\\gitfile\\egg-sample\\node_modules\\egg-security\\config\\config.default.js",
-      "headerName": "E:\\gitfile\\egg-sample\\node_modules\\egg-security\\config\\config.default.js",
-      "bodyName": "E:\\gitfile\\egg-sample\\node_modules\\egg-security\\config\\config.default.js",
-      "queryName": "E:\\gitfile\\egg-sample\\node_modules\\egg-security\\config\\config.default.js"
-    },
     "xframe": {
-      "enable": "E:\\gitfile\\egg-sample\\node_modules\\egg-security\\config\\config.default.js",
+      "enable": "E:\\gitfile\\egg-sample\\config\\config.default.js",
       "value": "E:\\gitfile\\egg-sample\\node_modules\\egg-security\\config\\config.default.js"
     },
+    "csrf": "E:\\gitfile\\egg-sample\\config\\config.default.js",
+    "domainWhiteList": "E:\\gitfile\\egg-sample\\config\\config.default.js",
+    "protocolWhiteList": "E:\\gitfile\\egg-sample\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "E:\\gitfile\\egg-sample\\node_modules\\egg-security\\config\\config.default.js",
     "hsts": {
       "enable": "E:\\gitfile\\egg-sample\\node_modules\\egg-security\\config\\config.local.js",
       "maxAge": "E:\\gitfile\\egg-sample\\node_modules\\egg-security\\config\\config.default.js",
@@ -76,6 +69,16 @@
       "ipBlackList": "E:\\gitfile\\egg-sample\\node_modules\\egg-security\\config\\config.default.js",
       "checkAddress": "E:\\gitfile\\egg-sample\\node_modules\\egg-security\\config\\config.default.js"
     }
+  },
+  "jwt": {
+    "secret": "E:\\gitfile\\egg-sample\\config\\config.default.js",
+    "enable": "E:\\gitfile\\egg-sample\\node_modules\\egg-jwt\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "E:\\gitfile\\egg-sample\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "E:\\gitfile\\egg-sample\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "E:\\gitfile\\egg-sample\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "E:\\gitfile\\egg-sample\\node_modules\\egg-session\\config\\config.default.js"
   },
   "helper": {
     "shtml": "E:\\gitfile\\egg-sample\\node_modules\\egg-security\\config\\config.default.js"
@@ -152,6 +155,7 @@
     "defaultViewEngine": "E:\\gitfile\\egg-sample\\node_modules\\egg-view\\config\\config.default.js",
     "mapping": "E:\\gitfile\\egg-sample\\node_modules\\egg-view\\config\\config.default.js"
   },
+  "cors": "E:\\gitfile\\egg-sample\\node_modules\\egg-cors\\config\\config.default.js",
   "env": "E:\\gitfile\\egg-sample\\node_modules\\egg\\config\\config.default.js",
   "name": "E:\\gitfile\\egg-sample\\node_modules\\egg\\config\\config.default.js",
   "proxy": "E:\\gitfile\\egg-sample\\node_modules\\egg\\config\\config.default.js",
@@ -164,9 +168,12 @@
     "description": "E:\\gitfile\\egg-sample\\node_modules\\egg\\config\\config.default.js",
     "private": "E:\\gitfile\\egg-sample\\node_modules\\egg\\config\\config.default.js",
     "dependencies": {
+      "axios": "E:\\gitfile\\egg-sample\\node_modules\\egg\\config\\config.default.js",
       "egg": "E:\\gitfile\\egg-sample\\node_modules\\egg\\config\\config.default.js",
+      "egg-cors": "E:\\gitfile\\egg-sample\\node_modules\\egg\\config\\config.default.js",
       "egg-jwt": "E:\\gitfile\\egg-sample\\node_modules\\egg\\config\\config.default.js",
       "egg-mongoose": "E:\\gitfile\\egg-sample\\node_modules\\egg\\config\\config.default.js",
+      "egg-redis": "E:\\gitfile\\egg-sample\\node_modules\\egg\\config\\config.default.js",
       "egg-scripts": "E:\\gitfile\\egg-sample\\node_modules\\egg\\config\\config.default.js"
     },
     "devDependencies": {

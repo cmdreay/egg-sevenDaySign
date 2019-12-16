@@ -9,12 +9,12 @@ module.exports = appInfo => {
   // add your config here
   config.middleware = ['errorHandler'];
   // db connet settting
-  const dbname = 'Mector_test'
-  const ip = '47.93.5.193'
+  const dbname = 'newdatabase'
+  const ip = '127.0.0.1'
   const port = '27017'
   const mongooseOptions = {
-    user: 'mectoradmin',
-    pass: '2019mectoradmin2019',
+    user: '',
+    pass: '',
     // useNewUrlParser:true
     // useMongoClient: true
   }
@@ -25,8 +25,23 @@ module.exports = appInfo => {
       options: mongooseOptions,
     },
   };
+  config.redis = {
+    client: {
+      port: 6379,          // Redis port
+      host: '127.0.0.1',   // Redis host
+      password: '',
+      db: 0,
+    },
+  }
+  config.security = {
+    xframe: {
+      enable: false,
+    },
+    csrf: false,
+    domainWhiteList: ['http://localhost:8080']
+  }
   config.jwt = {
-    secret: 'mector-secret'
+    secret: 'app-secret'
   };
   return config;
 };
