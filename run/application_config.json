@@ -13,7 +13,8 @@
     },
     "security": {
       "domainWhiteList": [
-        "http://localhost:8080"
+        "http://localhost:8080",
+        "http://192.168.31.19:8080"
       ],
       "protocolWhiteList": [],
       "defaultMiddleware": "csrf,hsts,methodnoallow,noopen,nosniff,csp,xssProtection,xframe,dta",

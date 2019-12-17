@@ -630,3 +630,55 @@ name: "unhandledExceptionError"
 pid: 1932
 hostname: 1S3RBZS6YE7YQZ9
 
+2019-12-17 10:05:43,203 ERROR 3524 [egg-mongoose] mongodb://127.0.0.1:27017/newdatabase?authSource=admin disconnected
+2019-12-17 10:20:28,414 ERROR 3524 [-/127.0.0.1/-/0ms GET /] nodejs.MongoError: pool destroyed
+    at Pool.write (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\core\connection\pool.js:840:8)
+    at _command (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\core\wireprotocol\command.js:120:10)
+    at command (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\core\wireprotocol\command.js:26:5)
+    at Object.query (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\core\wireprotocol\query.js:57:3)
+    at Server.query (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\core\topologies\server.js:639:16)
+    at FindOperation.execute (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\operations\find.js:24:12)
+    at E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\operations\execute_operation.js:163:17
+    at Server.selectServer (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\core\topologies\server.js:827:3)
+    at Server.selectServer (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\topologies\topology_base.js:363:32)
+    at executeWithServerSelection (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\operations\execute_operation.js:150:12)
+    at executeOperation (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\operations\execute_operation.js:81:16)
+    at Cursor._initializeCursor (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\core\cursor.js:545:7)
+    at Cursor._initializeCursor (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\cursor.js:191:11)
+    at nextFunction (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\core\cursor.js:748:10)
+    at Cursor._next (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\core\cursor.js:202:5)
+    at nextObject (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\operations\common_functions.js:235:10)
+name: "MongoError"
+pid: 3524
+hostname: 1S3RBZS6YE7YQZ9
+
+2019-12-17 10:21:36,593 ERROR 3524 [-/127.0.0.1/-/0ms GET /] nodejs.MongoError: pool destroyed
+    at Pool.write (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\core\connection\pool.js:840:8)
+    at _command (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\core\wireprotocol\command.js:120:10)
+    at command (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\core\wireprotocol\command.js:26:5)
+    at Object.query (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\core\wireprotocol\query.js:57:3)
+    at Server.query (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\core\topologies\server.js:639:16)
+    at FindOperation.execute (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\operations\find.js:24:12)
+    at E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\operations\execute_operation.js:163:17
+    at Server.selectServer (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\core\topologies\server.js:827:3)
+    at Server.selectServer (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\topologies\topology_base.js:363:32)
+    at executeWithServerSelection (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\operations\execute_operation.js:150:12)
+    at executeOperation (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\operations\execute_operation.js:81:16)
+    at Cursor._initializeCursor (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\core\cursor.js:545:7)
+    at Cursor._initializeCursor (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\cursor.js:191:11)
+    at nextFunction (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\core\cursor.js:748:10)
+    at Cursor._next (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\core\cursor.js:202:5)
+    at nextObject (E:\gitfile\egg-sample\node_modules\mongoose\node_modules\mongodb\lib\operations\common_functions.js:235:10)
+name: "MongoError"
+pid: 3524
+hostname: 1S3RBZS6YE7YQZ9
+
+2019-12-17 14:01:54,158 ERROR 3084 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 3084
+hostname: 1S3RBZS6YE7YQZ9
+

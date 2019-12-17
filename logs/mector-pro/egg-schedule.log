@@ -1271,3 +1271,9 @@
 2019-12-16 19:32:38,261 INFO 12076 [Timer] E:\gitfile\egg-sample\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2019-12-17 00:00:01.000
 2019-12-16 19:40:05,792 INFO 11528 [Timer] E:\gitfile\egg-sample\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute at 2019-12-17 00:00:00.000
 2019-12-16 19:40:05,793 INFO 11528 [Timer] E:\gitfile\egg-sample\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2019-12-17 00:00:01.000
+2019-12-17 09:56:55,943 INFO 1824 [Timer] E:\gitfile\egg-sample\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute at 2019-12-18 00:00:00.000
+2019-12-17 09:56:55,944 INFO 1824 [Timer] E:\gitfile\egg-sample\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2019-12-18 00:00:01.000
+2019-12-17 10:49:15,745 INFO 3084 [Timer] E:\gitfile\egg-sample\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute at 2019-12-18 00:00:00.000
+2019-12-17 10:49:15,745 INFO 3084 [Timer] E:\gitfile\egg-sample\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2019-12-18 00:00:01.000
+2019-12-17 14:25:53,766 INFO 2600 [Timer] E:\gitfile\egg-sample\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute at 2019-12-18 00:00:00.000
+2019-12-17 14:25:53,767 INFO 2600 [Timer] E:\gitfile\egg-sample\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2019-12-18 00:00:01.000

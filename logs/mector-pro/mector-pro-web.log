@@ -153,3 +153,153 @@ inner: {"message":"No authorization token was found"}
 pid: 2700
 hostname: 1S3RBZS6YE7YQZ9
 
+2019-12-17 09:57:46,082 WARN 3524 [-/127.0.0.1/-/1ms GET /] nodejs.UnauthorizedError: Format is Authorization: Bearer [token]
+    at middleware (E:\gitfile\egg-sample\node_modules\koa-jwt2\lib\index.js:81:15)
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (E:\gitfile\egg-sample\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at E:\gitfile\egg-sample\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at E:\gitfile\egg-sample\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at E:\gitfile\egg-sample\app\middleware\error_handler.js:5:13
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at E:\gitfile\egg-sample\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\gitfile\egg-sample\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\gitfile\egg-sample\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+name: "UnauthorizedError"
+message: "Format is Authorization: Bearer [token]"
+code: "credentials_bad_format"
+status: 401
+inner: {"message":"Format is Authorization: Bearer [token]"}
+pid: 3524
+hostname: 1S3RBZS6YE7YQZ9
+
+2019-12-17 14:11:06,017 WARN 10492 [-/127.0.0.1/-/0ms GET /] nodejs.UnauthorizedError: Format is Authorization: Bearer [token]
+    at middleware (E:\gitfile\egg-sample\node_modules\koa-jwt2\lib\index.js:81:15)
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (E:\gitfile\egg-sample\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at E:\gitfile\egg-sample\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at E:\gitfile\egg-sample\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at E:\gitfile\egg-sample\app\middleware\error_handler.js:5:13
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at E:\gitfile\egg-sample\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\gitfile\egg-sample\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\gitfile\egg-sample\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+name: "UnauthorizedError"
+message: "Format is Authorization: Bearer [token]"
+code: "credentials_bad_format"
+status: 401
+inner: {"message":"Format is Authorization: Bearer [token]"}
+pid: 10492
+hostname: 1S3RBZS6YE7YQZ9
+
+2019-12-17 14:13:23,871 WARN 10356 [-/127.0.0.1/-/0ms GET /] nodejs.UnauthorizedError: Format is Authorization: Bearer [token]
+    at middleware (E:\gitfile\egg-sample\node_modules\koa-jwt2\lib\index.js:81:15)
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (E:\gitfile\egg-sample\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at E:\gitfile\egg-sample\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at E:\gitfile\egg-sample\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at E:\gitfile\egg-sample\app\middleware\error_handler.js:5:13
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at E:\gitfile\egg-sample\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\gitfile\egg-sample\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\gitfile\egg-sample\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+name: "UnauthorizedError"
+message: "Format is Authorization: Bearer [token]"
+code: "credentials_bad_format"
+status: 401
+inner: {"message":"Format is Authorization: Bearer [token]"}
+pid: 10356
+hostname: 1S3RBZS6YE7YQZ9
+
+2019-12-17 14:14:27,006 WARN 7156 [-/127.0.0.1/-/0ms GET /] nodejs.UnauthorizedError: Format is Authorization: Bearer [token]
+    at middleware (E:\gitfile\egg-sample\node_modules\koa-jwt2\lib\index.js:81:15)
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (E:\gitfile\egg-sample\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at E:\gitfile\egg-sample\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at E:\gitfile\egg-sample\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at E:\gitfile\egg-sample\app\middleware\error_handler.js:5:13
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at E:\gitfile\egg-sample\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\gitfile\egg-sample\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\gitfile\egg-sample\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+name: "UnauthorizedError"
+message: "Format is Authorization: Bearer [token]"
+code: "credentials_bad_format"
+status: 401
+inner: {"message":"Format is Authorization: Bearer [token]"}
+pid: 7156
+hostname: 1S3RBZS6YE7YQZ9
+
+2019-12-17 14:14:46,551 WARN 4200 [-/127.0.0.1/-/0ms GET /] nodejs.UnauthorizedError: Format is Authorization: Bearer [token]
+    at middleware (E:\gitfile\egg-sample\node_modules\koa-jwt2\lib\index.js:81:15)
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (E:\gitfile\egg-sample\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at E:\gitfile\egg-sample\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at E:\gitfile\egg-sample\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at E:\gitfile\egg-sample\app\middleware\error_handler.js:5:13
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at E:\gitfile\egg-sample\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\gitfile\egg-sample\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\gitfile\egg-sample\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+name: "UnauthorizedError"
+message: "Format is Authorization: Bearer [token]"
+code: "credentials_bad_format"
+status: 401
+inner: {"message":"Format is Authorization: Bearer [token]"}
+pid: 4200
+hostname: 1S3RBZS6YE7YQZ9
+
+2019-12-17 14:15:59,647 WARN 6060 [-/127.0.0.1/-/0ms GET /] nodejs.UnauthorizedError: Format is Authorization: Bearer [token]
+    at middleware (E:\gitfile\egg-sample\node_modules\koa-jwt2\lib\index.js:81:15)
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (E:\gitfile\egg-sample\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at E:\gitfile\egg-sample\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at E:\gitfile\egg-sample\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at E:\gitfile\egg-sample\app\middleware\error_handler.js:5:13
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at E:\gitfile\egg-sample\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\gitfile\egg-sample\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\gitfile\egg-sample\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\gitfile\egg-sample\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+name: "UnauthorizedError"
+message: "Format is Authorization: Bearer [token]"
+code: "credentials_bad_format"
+status: 401
+inner: {"message":"Format is Authorization: Bearer [token]"}
+pid: 6060
+hostname: 1S3RBZS6YE7YQZ9
+

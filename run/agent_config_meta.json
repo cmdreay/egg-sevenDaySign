@@ -155,6 +155,7 @@
     "defaultViewEngine": "E:\\gitfile\\egg-sample\\node_modules\\egg-view\\config\\config.default.js",
     "mapping": "E:\\gitfile\\egg-sample\\node_modules\\egg-view\\config\\config.default.js"
   },
+  "cors": "E:\\gitfile\\egg-sample\\node_modules\\egg-cors\\config\\config.default.js",
   "env": "E:\\gitfile\\egg-sample\\node_modules\\egg\\config\\config.default.js",
   "name": "E:\\gitfile\\egg-sample\\node_modules\\egg\\config\\config.default.js",
   "proxy": "E:\\gitfile\\egg-sample\\node_modules\\egg\\config\\config.default.js",

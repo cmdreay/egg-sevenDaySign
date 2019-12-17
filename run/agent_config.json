@@ -160,6 +160,7 @@
         "db": 0
       }
     },
+    "cors": {},
     "env": "local",
     "name": "mector-pro",
     "keys": "<String len: 29>",
@@ -184,7 +185,7 @@
       "devDependencies": {
         "autod": "^3.0.1",
         "autod-egg": "^1.0.0",
-        "egg-bin": "^4.3.5",
+        "egg-bin": "^4.14.0",
         "egg-ci": "^1.8.0",
         "egg-mock": "^3.14.0",
         "eslint": "^4.11.0",
@@ -496,6 +497,17 @@
       "from": "E:\\gitfile\\egg-sample\\config\\plugin.js",
       "path": "E:\\gitfile\\egg-sample\\node_modules\\egg-redis",
       "version": "2.4.0"
+    },
+    "cors": {
+      "enable": true,
+      "package": "egg-cors",
+      "name": "cors",
+      "dependencies": [],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "E:\\gitfile\\egg-sample\\config\\plugin.js",
+      "path": "E:\\gitfile\\egg-sample\\node_modules\\egg-cors",
+      "version": "2.2.3"
     }
   }
 }

@@ -38,7 +38,7 @@ module.exports = appInfo => {
       enable: false,
     },
     csrf: false,
-    domainWhiteList: ['http://localhost:8080']
+    domainWhiteList: ['http://localhost:8080','http://192.168.31.19:8080']
   }
   config.jwt = {
     secret: 'app-secret'

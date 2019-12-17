@@ -53,13 +53,9 @@ class UserController extends Controller {
         if (expiredTime > 3600 * 24) { // 过期时间大于一天说明今天已经签到过了
             return ctx.body = { code: -1, msg: '今天已经签到过了' };
         }
-
-        if (parseInt(signinDay) === 7) {
-            signinDay = 0
-        }
         app.redis.set("signin:" + username, ++signinDay, 'EX', diff);
         // 新增积分
-        await ctx.service.user.addScore(username, 5 * signinDay);
+        await ctx.service.user.addScore(username, 5 * (signinDay % 8 +　1));
         ctx.body = { code: 0, msg: '签到成功' };
     }
     /**
@@ -76,9 +72,10 @@ class UserController extends Controller {
             };
         }
         const signinDay = await app.redis.get("signin:" + username) || '0';
+        const signTime = await app.redis.ttl("signin:" + username) || 0;
         ctx.body = {
             code: 0,
-            data: {signinDay,...result._doc}
+            data: {signinDay,signTime,...result._doc}
         }
     }
     /**

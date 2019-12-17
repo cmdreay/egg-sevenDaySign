@@ -15,11 +15,17 @@ module.exports = (options,app) => {
       // 从 error 对象上读出各个属性，设置到响应中
       ctx.body = {
         code: 500,
-        msg: 'Internal Server Error',
+        msg: '服务器错误',
         data: error,
       };
+      console.log('status',status)
       if (status === 422) {
         ctx.body.data = err.errors;
+      }
+      if(status === 401) {
+        ctx.body.code = -4;
+        ctx.body.msg = 'token验证失败';
+        ctx.body.data = 'token error';
       }
       ctx.status = 200;
     }
