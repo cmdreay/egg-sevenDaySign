@@ -4,7 +4,7 @@
   "description": "sample of mector project",
   "private": true,
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "egg": "^2.2.1",
     "egg-cors": "^2.2.3",
     "egg-jwt": "^3.1.2",
